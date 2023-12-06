@@ -1,0 +1,211 @@
+/* Style chatbot AI */
+
+body {
+  background-color: #000000; /* Black background */
+  font-family: 'Montserrat', sans-serif; /* Sets default font family to Montserrat */
+  margin: 0;
+  padding: 20px;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.chatbot-ui {
+  border: 1px solid #3C662E; /* Dark green borders */
+  width: 90%;
+  max-width: 700px;
+}
+.chatbot-header, .chatbot-title {
+  color: #6FBC55; /* Green font for the titles */
+  padding: 10px 20px; /* Padding for the title */
+  background-color: #000000; /* Ensuring the title background is black */
+}
+
+/* Specific rules for titles */
+.chatbot-header, .chatbot-content strong {
+  color: #6FBC55; /* Specific green font color for titles */
+  font-weight: 600; /* Semi-bold font weight for titles */
+  margin-bottom: 20px;
+}
+
+/* Specific rules for the output box */
+.output-box {
+  border: 1px solid #62A64B;
+  background-color: #62A64B; /* Highlighted text output background */
+  padding: 5px;
+  color: #ffffff; /* White text for contrast */
+}
+
+/* Add a border between input and output boxes */
+.input-box, .output-box {
+  border: 1px solid #62A64B;
+  margin: 5px 0;
+  padding: 5px;
+}
+
+.chatbot-input form {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 5px 0;
+  /* border: 1px solid #62A64B; */
+  background: #333;
+  border-radius: 5px;
+}
+
+.chatbot-input form input {
+  width: 95%;
+  font-size: 18px;
+  color: #6FBC55;
+  outline: none;
+  padding: 15px 10px;
+  border: none;
+  resize: none;
+  background: #333;
+}
+
+.auto_height { 
+  width: 100%;
+}
+
+
+.chatbot-input form button{
+  color: #f1f1f1;
+  padding: 15px 20px;
+  background-color: #62A64B;
+  font-size: 18px;
+  border: none;
+  margin-right: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: .3s;
+}
+
+
+.chatbot-input form button:hover{
+  background-color: #6FBC55;
+}
+
+
+/* Use a pseudo-element to create a line between input and output boxes */
+.input-box + .output-box:before {
+  content: '';
+  display: block;
+  margin-top: -11px;
+  border-top: 1px solid #62A64B;
+}
+.chatbot-section {
+  border-bottom: 1px solid #62A64B; /* Border between input and output */
+  padding: 10px;
+}
+
+.chatbot-section:last-child {
+  border-bottom: none; /* No border for the last section */
+}
+
+.chatbot-title {
+  font-weight: bold; /* Bold font weight for titles */
+}
+
+.chatbot-section p {
+  color: #399a42; /* Lighter green font for section content */
+  font-weight: normal; /* Normal font weight for content */
+}
+
+.output-highlight {
+  background-color: #426F33 !important; /* Green background for highlighted text */
+  color: #ffffff !important; /* White font for the highlighted output text */
+  padding: 0px 5px; /* Add some padding around the text */
+  display: inline; 
+}
+
+
+
+.chatbot-content {
+  color: #FFFFFF; /* Green font for the input text */
+  font-weight: 300; /* Light font weight for general content */
+  white-space: pre-wrap; /* Keeps spacing and line breaks */
+}
+
+
+
+
+/* * {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  body, html {
+    height: 100%;
+    background-color: #121212;
+    color: white;
+  }
+  
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #242424;
+  }
+  
+  .toggle-buttons {
+    /* Styling for the toggle buttons */
+  /* } */
+  
+  .toggle-btn {
+    background: #333;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .toggle-btn.active {
+    background: #4e0eff;
+  }
+  
+  .chat-title {
+    /* Additional styling as needed */
+  }
+  
+  .chat-messages {
+    flex: 1;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  
+  .chat-form {
+    display: flex;
+    padding: 1rem;
+  }
+  
+  .chat-form input {
+    flex: 1;
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 2rem;
+    border: none;
+  }
+  
+  .chat-form .send-btn {
+    background: #4e0eff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+  } */
+  
+  /* Responsive adjustments and other specific styling can be added as necessary */
+  
