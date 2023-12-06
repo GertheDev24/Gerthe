@@ -1,0 +1,976 @@
+produit_en_vente,prix_de_vente,couts,categ_id,unité de mesure,purchase_ok,sale_ok
+AFFICHE A2,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AFFICHE A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AFFICHE A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AGENDA,0.0,0.0,All,Unité(s),True,False
+AGENDA FORMAT A4,1.0,0.0,Documents administratifs,Unité(s),True,True
+AGENDA FORMAT A4 Français,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AGENDA FORMAT A5,1.0,0.0,Documents administratifs,Unité(s),True,True
+AGENDAS A DOS CARRE COLLE A4 COUVERTURE HABILLEE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AGENDAS A DOS CARRE COLLE A5 COUVERTURE HABILLEE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AGENDAS A DOS CARRE COLLE A6 COUVERTURE HABILLEE,1800.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AGENDAS A SPIRAL A4 COUVERTURE HABILLEE,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AGENDAS A SPIRAL A4 COUVERTURE SIMPLE,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AGENDAS A SPIRAL A5 COUVERTURE HABILLEE,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+AGENDAS A SPIRAL A5 COUVERTURE SIMPLE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AGENDAS VIP,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AGRAFE23/15,1.0,0.0,All,Unité(s),True,False
+AGRAFE23/8,1.0,0.0,All,Unité(s),True,False
+AGRAFEUSE,0.0,0.0,All / Expenses,Unité(s),True,True
+AGRAFEUSE,1.0,0.0,All,Unité(s),True,False
+AGRAFEUSE DE BUREAU,1.0,0.0,All,Unité(s),True,False
+AGRAFFE 23/13,1.0,0.0,All,Unité(s),True,False
+AGRAFFE 24/6,1.0,0.0,All,Unité(s),True,False
+AGRAFFES  23/10,1525.0,0.51,INTERNE,Unité(s),True,False
+AGRAFFES  23/12,2.03,0.68,INTERNE,Unité(s),True,False
+AGRAFFES  23/15,2.54,0.85,INTERNE,Unité(s),True,False
+AGRAFFES  23/17,3.05,1.02,INTERNE,Unité(s),True,False
+AGRAFFES  23/20,3.81,1.27,INTERNE,Unité(s),True,False
+AGRAFFES  23/6,1.02,0.34,INTERNE,Unité(s),True,False
+AGRAFFES  23/8,1.27,0.42,INTERNE,Unité(s),True,False
+ALCOOL,58500.0,0.0,INTERNE,L,True,False
+ALUCOBOND,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+AME OFFSET BLANC,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+ATTACHE NYL 6.6 N140 BLC BTE 100,1.0,0.0,All,Unité(s),True,False
+AUTOCOLLANT OPAQUE ET TRANSPARENT,0.0,0.0,Etiquette,Unité(s),False,True
+AUTOCOLLANT PAPIER,92.0,40.0,Etiquette,"A4(25x32,5)",True,False
+AUTOCOLLANT VINYL OPAQUE 100CM,138000.0,600.0,Papier,100CM² (100CM Hauteur),True,False
+AUTOCOLLANT VINYL OPAQUE 152CM,195500.0,85000.0,All,1M :ROULEAU (152CM Hauteur),True,False
+AUTOCOLLANT VINYL REFLECHISSANT 106 CM,0.0,0.0,Papier,100CM² (100CM Hauteur),True,False
+AUTOCOLLANT VINYL TRANSPARENT 100CM,138000.0,600.0,Papier,100CM² (100CM Hauteur),True,False
+AUTOCOLLANT VINYL TRANSPARENT 152CM,195500.0,85000.0,Papier,1M :ROULEAU (152CM Hauteur),True,False
+"AVIS D HOSPITALISATION A5 02 FEUILLETS AUTOCARBONNÉ 14,4X20,1",24.0,0.0,Documents administratifs,Unité(s),False,True
+"AVIS D HOSPITALISATION A5 02 FEUILLETS AUTOCARBONNÉ 14,4X20,1 (copie)",24.0,0.0,Documents administratifs,Unité(s),False,True
+Aceson-P 100,1.0,0.0,All,Unité(s),True,False
+Adaptateur internet,1.0,0.0,All,Unité(s),True,False
+Alcool 90,1.0,0.0,All,Unité(s),True,False
+Ampoule led 15W,1.0,0.0,All,Unité(s),True,False
+Ampoule led 18W,1.0,0.0,All,Unité(s),True,False
+Ampoule rechargeable,1.0,0.0,All,Unité(s),True,False
+Autocollant reflechissant,1.0,0.0,Etiquette,100CM² (100CM Hauteur),False,True
+BAC DE RANGEMENT 4 NIVEAUX,1.0,0.0,All,Unité(s),True,False
+BACHE 100 CM,138000.0,60000.0,All,100CM² (100CM Hauteur),True,False
+BACHE 160 CM,195500.0,85000.0,All,152CM (152CM Hauteur),True,False
+BACHE NUMERIQUE,4000.0,0.0,Support marketing et publicitaire,152CM (152CM Hauteur),False,True
+BADGE AVEC ECRITURE EN RELIEF,230.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+BADGE PVC,230.0,100.0,gadget à imprimer,Unité(s),True,False
+BADGE SIMPLE,230.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+BANDEAUX,4000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+BASSINS DE LIT,25000.0,0.0,All / Saleable,Unité(s),False,True
+BAT,0.0,0.0,All / Saleable,Unité(s),True,True
+BAT  DEPLIANT A5,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+BB AGRAFFES,1525.0,0.0,INTERNE,Unité(s),True,False
+BIC SCHNEIDER,1.0,0.0,All,Unité(s),True,False
+BLANC COUVRANT 1Kg,4100.0,4100.0,Encre,kg,True,False
+"BLANC COUVRANT 2,5Kg",1.0,0.0,Encre,kg,True,False
+"BLANC COUVRANT 3,5Kg",1.0,0.0,Encre,kg,True,False
+BLANC TRANSPARENT 1Kg,5900.0,5900.0,Encre,kg,True,False
+"BLANC TRANSPARENT 2,5 Kg",1.0,0.0,Encre,kg,True,False
+BLANCHET GTO46,0.0,0.0,All,Unité(s),True,False
+BLANCHET GTO52,0.0,0.0,All,Unité(s),True,False
+BLANCHET SORM,0.0,0.0,All,Unité(s),True,False
+BLEU REFLEXE 1Kg,9322.0,9322.0,Encre,kg,True,False
+"BLEU REFLEXE 2,5 Kg",39500.0,39500.0,Encre,kg,True,False
+BLOC NOTE 100FEUILLES A4,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+BLOC NOTE 100FEUILLES A5,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+BLOC NOTE 100FEUILLES A6,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+BLOC NOTE 50FEUILLES A5,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+BLOUSE,1.0,0.0,All / Saleable,Unité(s),True,True
+BLOUSE COMPLET HAUT ET BAS,1.0,0.0,All,Unité(s),True,False
+BLOUSE SIMPLE,1.0,0.0,All,Unité(s),True,False
+BOITE (ETUIS) A4+,1.0,0.0,Papier,Unité(s),False,True
+BOITE (ETUIS) A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+BOITE ARCHIVE,0.0,0.0,Documents administratifs,Unité(s),True,True
+BOITE DE LAIT BONNET ROUGE,1.0,0.0,All,Unité(s),True,False
+BOITE DE MASQUE FFP2,1.0,0.0,All,Unité(s),True,False
+BOITE DE PETITE CHURIGIE,65000.0,0.0,All / Saleable,Unité(s),False,True
+BOMBE NOIRCISSEUR,1.0,0.0,All,Unité(s),True,False
+BOUTEILLE D'OXYGENE (PETITE),150000.0,0.0,gadget à imprimer,Unité(s),True,True
+BRACELET EN SILICONE,1500.0,0.0,gadget à imprimer,Unité(s),True,True
+BRISTOL 240G,565.25,0.0,Papier,A1(65x100),True,False
+BRISTOL 250G,565.25,338.99,Papier,A1(65x100),True,False
+BROCHURE (COUVERTURE)A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+BROCHURE (COUVERTURE)A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+BROCHURE (COUVERTURE)A5,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+BROCHURE (COUVERTURE)A6,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+"BULLETIN D'EXAMEN 02 FEUILLETS 20,3x14,5",24.0,0.0,Documents administratifs,Unité(s),False,True
+BULLETIN DE SORTIE,25.0,0.0,Documents administratifs,Unité(s),False,True
+"BULLETIN DE SORTIE 14,9x21,1",25.0,0.0,Documents administratifs,Unité(s),True,True
+Bac de rangement FER 3 niveau,1.0,0.0,All,Unité(s),True,False
+Bandage ruban 4x15,1.0,0.0,All,Unité(s),True,False
+Barrette de domino n25,1.0,0.0,All,Unité(s),True,False
+Boite 100 attaches inovac,1.0,0.0,All,Unité(s),True,False
+Boite de plexo 100x100,1.0,0.0,All,Unité(s),True,False
+Boite étanche 160x135x70,1.0,0.0,All,Unité(s),True,False
+Botte toilee verte T44,1.0,0.0,All,Unité(s),True,False
+Brustan Comprimé,1.0,0.0,All,Unité(s),True,False
+Bétadine derm.125ml jaune,1.0,0.0,All,Unité(s),True,False
+CACHE-NEZ,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CACHE-NEZ MÉDICAL,1.0,0.0,All,Unité(s),True,False
+CACHET,1.0,0.0,All / Saleable,Unité(s),False,True
+CACHET DATEUR,1.0,0.0,Documents administratifs,Unité(s),True,True
+CACHET DE POCHE 11,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CADRE EN FER,1.0,0.0,gadget à imprimer,Unité(s),True,True
+CAHIER A4 100 PAGES,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+CAHIER A4 300 PAGES,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+CALCULATRICE DC 1988,1.0,0.0,All,Unité(s),True,False
+CALCULATRICE GATES MOYEN,1.0,0.0,All,Unité(s),True,False
+CALENDRIER BANCAIRE OU MURAL A2,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CALENDRIER BANCAIRE OU MURAL A3,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CALENDRIER BANCAIRE OU MURAL A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CALENDRIER BANCAIRE OU MURAL A5,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CALENDRIER DE POCHE,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CALENDRIER PYRAMIDE,1.0,0.0,All,Unité(s),True,False
+CALENDRIER REMBORDE PF A2,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CALENDRIER REMBORDE PF A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CALENDRIER REMBORDE PF A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CAMPING YINGHE,1.0,0.0,All,Unité(s),True,False
+CAOUTCHOU DE RACLE GTO46,11000.0,11000.0,All,Unité(s),True,False
+CAR,0.0,0.0,All / Saleable,Unité(s),True,True
+CARN,0.0,0.0,All,Unité(s),True,True
+CARNER,0.0,0.0,All,Unité(s),True,True
+CARNET,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+"CARNET BON DE COMMANDE ACHAT LABO, A4 03 FEUILLETS AUTOCARBONNÉ 50 PAGES 29,8X19,2",4500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE ACHAT ORDINAIRE A4 03 FEUILLETS AUTOCARBONNÉ 50 PAGES 28X19,5",4500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE ACHAT ORDINAIRE A5 03 FEUILLETS AUTOCARBONNÉ V R 50 PAGES 15X18,2",3500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE ACHAT PHARMACIE A4 03 FEUILLETS AUTOCARBONNÉ 50 PAGES 29,4X20,5",4500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE EXTERNE A5 03 FEUILLETS AUTOCARBONNÉ 50 PAGES 15,2X19,2",3500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE EXTERNE A5 03 FEUILLETS AUTOCARBONNÉ 50 PAGES 15,2X19,2",3500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET BON DE COMMANDE INTERNE A5 02 FEUILLETS AUTOCARBONNÉ 50 PAGES 14,7X19,1",3500.0,0.0,Documents administratifs,Unité(s),False,True
+"CARNET CERTIFICAT MEDICAL DE NAISSANCE A5 01 FEUILLET 100 PAGES 14,5X20,1",600.0,0.0,Documents administratifs,Unité(s),False,True
+CARNET DE BON DE SORTIE,4500.0,0.0,Documents administratifs,Unité(s),True,True
+"CARNET DE RENDEZ-VOUS 14,8X21,2",80.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS,0.0,0.0,Documents administratifs,Unité(s),True,True
+CARNETS BON DE SANG A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS BON DE TRAVAUX A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS FICHE DE BUANDERIE A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS NORMALISES A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS NORMALISES A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS PRE-IMPRIME CHAMBRE DE COMMERCE,800.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS SIMPLES A3,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS SIMPLES A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS SIMPLES A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARNETS SIMPLES A6,1.0,0.0,Documents administratifs,Unité(s),False,True
+CARTE D' INVITATION,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+CARTE DE LYON BLEU 93/94,1.0,0.0,All,Unité(s),True,False
+CARTE DE LYON JAUNE 93/94,1.0,0.0,All,Unité(s),True,False
+CARTE DE LYON ROUGE 63/107,1.0,0.0,All,Unité(s),True,False
+CARTE DE MARIAGE,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+CARTE DE MENU A3,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CARTE DE MENU A4,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CARTE DE RDV ROSE CONSULTATION EXTERNE,530.0,0.0,Documents administratifs,Unité(s),True,True
+CARTE DE REMERCIEMENTS,40.0,0.0,cartes de visite,Unité(s),False,True
+CARTE DE VISITE,40.0,0.0,cartes de visite,Unité(s),False,True
+CARTE DE VOEUX,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CARTE POSTAL,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+CARTON D'ARCHIVE,305.08,305.08,Documents administratifs,Unité(s),True,False
+CARTON D'ARCHIVE,1.0,0.0,Documents administratifs,Unité(s),True,True
+CARTON D'ENCRE BLEU ECO 6L,15000.0,0.0,Encre,L,True,False
+CARTON D'ENCRE JAUNE ECO 6L,15000.0,0.0,Encre,L,True,False
+CARTON D'ENCRE NOIRE ECO 6L,34500.0,0.0,Encre,L,True,False
+CARTON D'ENCRE ROUGE ECO 6L,15000.0,0.0,Encre,L,True,False
+CARTON DE REGISTRE /KG,1.0,0.0,All,Unité(s),True,False
+CARTON DE SOLVENT ECO,20000.0,0.0,All,L,True,False
+CARTON DOS BOIS 300G,577.12,0.0,Papier,A1(65x100),True,False
+CARTON DOS BOIS 350G,508.74,0.0,Papier,A1(65x100),True,False
+CARTON DOS BOIS 400G,508.74,280.0,Papier,A1(65x100),True,False
+CARTON DOS BOIS 450G,571.11,318.8,Papier,A1(65x100),True,False
+CARTON DOS BOIS 600G,571.11,0.0,Papier,A1(65x100),True,False
+CARTON DOS GRIS 300G,577.12,248.31,Papier,A1(65x100),True,False
+CARTON DOS GRIS 350G,577.12,0.0,Papier,A1(65x100),True,False
+CARTON DOS GRIS 400G,0.0,377.12,Papier,A1(65x100),True,False
+CARTON DOS GRIS 450 G,0.0,0.0,All,A1(65x100),True,False
+CARTON DOS GRIS blanchit 250G,577.12,0.0,Papier,A1(65x100),True,False
+CARTON DOS GRIS blanchit 300G,577.12,0.0,Papier,A1(65x100),True,False
+CARTON DOS GRIS blanchit 350G,577.12,44.0,Papier,A1(65x100),True,False
+CARTON DOS bois 250G,577.12,48.31,Papier,A1(65x100),True,False
+CARTON LAIT BONNET ROUGE 48BOITES,1.0,0.0,All,Unité(s),True,False
+CARTOUCHE D' encre quadri,0.0,0.0,Encre,Unité(s),True,True
+CARTOUCHE D'encre 953XL NOIR,0.0,0.0,Encre,Unité(s),True,True
+CASQUE DE CHANTIERS,1000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CASQUETTE,2300.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CASQUETTE FOURNISSEUR,1.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+CATALOGUE A3,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CATALOGUE A4,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CATALOGUE A5,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CATALOGUE A6,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CB_BLANC,116.96,53.14,Papier,A1(65x100),True,False
+"CERTIFICAT D'ARRET DE TRAVAIL 14,8X21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+CERTIFICAT D'ARRET MALADIE A5,25.0,0.0,Documents administratifs,Unité(s),False,True
+"CERTIFICAT DE CONSULTATION 21X14,6",12.0,0.0,Documents administratifs,Unité(s),False,True
+CF BLEU,116.96,50.34,Papier,A1(65x100),True,False
+CF JAUNE,116.96,50.34,Papier,A1(65x100),True,False
+CF ROSE,116.96,50.34,Papier,A1(65x100),True,False
+CF VERT,116.96,53.14,Papier,A1(65x100),True,False
+CFB BLEU,116.96,53.14,Papier,A1(65x100),True,False
+CFB JAUNE,116.96,53.14,Papier,A1(65x100),True,False
+CFB ROSE,116.96,53.14,Papier,A1(65x100),True,False
+CFB VERT,116.96,54.24,Papier,A1(65x100),True,False
+CFB_BLANC,116.96,54.24,Papier,A1(65x100),True,False
+CF_BLEU,116.96,53.14,Papier,A1(65x100),True,False
+CHARGEUR DE PILE,1.0,0.0,Documents administratifs,Unité(s),True,False
+CHARGEUR DE TÉLÉPHONE,1.0,0.0,Documents administratifs,Unité(s),True,False
+CHASUBLES,3000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CHAUSSURES DE SÉCURITÉ,1.0,0.0,All,Unité(s),True,False
+CHEMISE 24*32 ASSORTIE,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+CHEMISE A RABAT,1.0,0.0,Documents administratifs,Unité(s),True,True
+CHEMISE MANCHE COURTE 1 COULEUR,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CHEMISE MANCHE COURTE 2 COULEURS,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CHEMISE MANCHE LONGUE 1 COULEUR,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CHEMISE MANCHE LONGUE 2 COULEURS,0.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+CHEMISE MANCHE LONGUE 2 COULEURS,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CHEMISE PORTE DOCUMENT PLASTIQUE 20F,1.0,0.0,Documents administratifs,Unité(s),True,True
+CHEMISES CARTONNÉES,1.0,0.0,Documents administratifs,Unité(s),True,True
+CHEVALET 1MOIS/FEUILLE,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CHEVALET 2MOIS/FEUILLE,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CHEVALET 6MOIS/FACE,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+CHIFFON pour marker,1.0,0.0,All,Unité(s),True,False
+CISEAUX,1.0,0.0,All,Unité(s),True,False
+CLAMOXYL,1.0,0.0,All,Unité(s),True,False
+CLASSEUR  A LEVIER ROSE,0.0,0.0,Documents administratifs,Unité(s),True,True
+CLASSEUR A LEVIER BLEU,0.0,0.0,Documents administratifs,Unité(s),True,True
+CLASSEUR A LEVIER ROUGE,0.0,0.0,Documents administratifs,Unité(s),True,True
+CLASSEUR A LEVIER VERT,0.0,0.0,Documents administratifs,Unité(s),True,True
+CLASSEUR CHRONO AVEC PERFORATEUR,1.0,0.0,Documents administratifs,Unité(s),True,True
+CLASSEUR CHRONO AVEC PERFORATION,1.0,0.0,All,Unité(s),True,False
+CLASSEUR EXA,1.0,0.0,All,Unité(s),True,False
+CLASSEUR TRIO,1.0,0.0,All,Unité(s),True,False
+CLE USB 16G,1.0,0.0,Documents administratifs,Unité(s),True,False
+CLEANER,9745.1,0.0,Impression,L,True,False
+CLÉ N11,1.0,0.0,Documents administratifs,Unité(s),True,False
+CLÉ N17,1.0,0.0,Documents administratifs,Unité(s),True,False
+CLÉ USB PUBLICITAIRE,6200.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+COFFRET  PUBLICITAIRE,38500.0,0.0,Support marketing et publicitaire,100CM² (100CM Hauteur),True,True
+COFFRET AGENDA PERSONNALISÉ VIP,60000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+COL DE CORDON DE MACHINE,1.0,0.0,All,Unité(s),True,False
+COLLAGE,10000.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+COLLE A BOIS 1KG,1.0,0.0,All,Unité(s),True,False
+COLLE A BOIS 5KG,1.0,0.0,All,Unité(s),True,False
+COLLE A BOIS 5KG Bleu,1.0,0.0,All,Unité(s),True,False
+COLLE A BOIS 5KG Vert industrap,1.0,0.0,All,Unité(s),True,False
+COLLE FORTE GRAND POT,1.0,0.0,All / Saleable,Unité(s),False,True
+COLLE FORTE PETIT POT,1.0,0.0,All,Unité(s),True,False
+COLLE PLANATOL FF60,1.0,0.0,Finition,kg,True,False
+COLLE TRANSPARENTE,1.0,0.0,All,Unité(s),True,False
+CONCEPTION,1.0,5000.0,Conception,Unité(s),False,True
+CONCEPTION AFFICHE,10000.0,0.0,Conception,Unité(s),False,True
+CONCEPTION AGENDAS,30000.0,0.0,All,Unité(s),True,False
+CONCEPTION AUTOCOLLANT,5000.0,0.0,Conception,Unité(s),False,True
+CONCEPTION BACHE,5000.0,0.0,Conception,Unité(s),True,False
+CONCEPTION BLOC NOTE,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+CONCEPTION BROCHURE (36 pages ),10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CACHET,2500.0,1.0,Conception,Unité(s),True,True
+CONCEPTION CALENDRIER,15000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CALENDRIER MURAL,10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CALENDRIER POSTER,10000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION CARNET NORMALISEE,5000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CARNET SIMPLE,5000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CARTE DE MARIAGE,10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CARTE DE VISITE,7500.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CARTE PVC,5000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION CASQUETTE,1.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CHEVALET,15000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION CLE USB,5000.0,0.0,gadget à imprimer,Unité(s),True,True
+CONCEPTION EN TÊTE,5000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION ENTE,10001.0,0.0,Conception,Unité(s),True,True
+CONCEPTION ETIQUETTE,5000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION FACTURE NORMALISEE,5000.0,5000.0,Conception,Unité(s),True,True
+CONCEPTION FAIT PART,10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION FLYERS/PROSPECTUS,10000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION LIVRE (36 pages),5000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION MARQUE PAGE,5000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION MENU,5000.0,1.0,Conception,Unité(s),True,True
+CONCEPTION PLAQUETTE,10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION POLO,10001.0,0.0,Conception,Unité(s),True,True
+CONCEPTION SAC CABA,10001.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CONCEPTION SAC D'ORDINATEUR,10000.0,0.0,Conception,Unité(s),True,True
+CONCEPTION Stylo Grand Public,10001.0,0.0,Conception,Unité(s),True,True
+CONCEPTION TEE SHIRT,10001.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+CORDE A LINGE ROULEAU,1.0,0.0,All,Unité(s),True,False
+CORONA DE KONICA C3070L,1.0,0.0,All / Saleable,Unité(s),True,True
+CORRECTEUR,3390.0,3390.0,Photogravure,mL,True,False
+COUCHE BRILLANT 130G,159.83,216.95,Papier,A1(65x100),True,False
+COUCHE BRILLANT 170G,226.1,0.0,Papier,A1(65x100),True,False
+COUCHE BRILLANT 170G,226.1,271.19,Papier,A1(65x100),True,False
+COUCHE BRILLANT 200G,159.83,45.77,Papier,A1(65x100),True,False
+COUCHE BRILLANT 350G,467.8,55.94,Papier,A1(65x100),True,False
+COUCHE BRILLANT 350G,467.8,220.34,Papier,A1(65x100),True,False
+COUCHE BRILLANT 90G,159.83,0.0,Papier,A1(65x100),True,False
+COUCHE MATT 130G,159.83,219.95,Papier,A1(65x100),True,False
+COUCHE MATT 170G,223.76,271.19,Papier,A1(65x100),True,False
+COUCHE MATT 200G,159.83,50.34,Papier,A1(65x100),True,False
+COUCHE MATT 350G,467.8,62.72,Papier,A1(65x100),True,False
+COUCHE MATT 350G,467.8,220.34,Papier,A1(65x100),True,False
+COUCHE MATT 90G,159.83,0.0,Papier,A1(65x100),True,False
+CUTTER avec sa larme,1000.0,0.0,All,Unité(s),True,False
+CYAN 1Kg,0.0,0.0,Encre,kg,True,False
+"CYAN 2,5 Kg",10000.0,10000.0,Encre,kg,True,False
+Cable U-1000 RO2V 5G6MM2 NEX,1.0,0.0,All,Unité(s),True,False
+Cable U-1000R2V 5G4MM2 NEX,1.0,0.0,All,Unité(s),True,False
+Cache nez menuiserie,1.0,0.0,All,Unité(s),True,False
+Cachet Trodat 4911 ENCRIER BLEU,4677.97,0.0,All,Unité(s),True,False
+Cachet Trodat 4912 ENCRIER BLEU,1.0,0.0,All,Unité(s),True,False
+Cachet de Poche 12,1.0,0.0,gadget à imprimer,Unité(s),True,True
+Cachet-Trodat 4638,8186.44,3559.32,All,Unité(s),True,False
+Cachet-Trodat 4642,9200.0,4000.0,All,Unité(s),True,False
+Cachet-Trodat 4911 ENCRIERS BLEU,4872.88,0.0,All,Unité(s),True,False
+Cachet-Trodat 4912 ENCRIERS  BLEU,3898.31,0.0,All,Unité(s),True,False
+Cachet-Trodat 4912 ENCRIERS ROUGE,4872.88,0.0,All,Unité(s),True,False
+Cachet-Trodat 4913 ENCRIER BLEU,4872.88,0.0,All,Unité(s),True,False
+Cachet-Trodat 4913 ENCRIERS ROUGE,4872.88,0.0,All,Unité(s),True,False
+Cachet-Trodat 4914,1.0,0.0,All,Unité(s),True,False
+Cachet-Trodat 4915 ENCRIER bleu,11694.92,0.0,All,Unité(s),True,False
+Cachet-Trodat 9512,4872.88,0.0,All,Unité(s),True,False
+Cadre simple A3,1.0,0.0,All,Unité(s),True,False
+Calque Stabiphane A3,230.0,0.0,All,"A4(25x32,5)",True,False
+Calque Stabiphane A4,230.0,0.0,All,"A4(25x32,5)",True,False
+Carnet de note A5,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+Carreaux espagnols,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+Carton recyclé,1.0,0.0,All,Unité(s),True,False
+Cartouche filtre à Gaz M900 P/GALAXY,1.0,0.0,All,Unité(s),True,False
+Casque chantier,1.0,0.0,All,Unité(s),True,False
+Chaise plastique boss,1.0,0.0,All,Unité(s),True,False
+Charniere Met.vis aut.Dr.Bay.Arg.Ar,1.0,0.0,All,Unité(s),True,False
+Chasuble de travail chantier,1.0,0.0,All,Unité(s),True,False
+Chasuble simple,1.0,0.0,All,Unité(s),True,False
+Ciphacet 500mg,1.0,0.0,All,Unité(s),True,False
+Clé à laine,1.0,0.0,All,Unité(s),True,False
+Colle à bois latex pur 5kg,1.0,0.0,All,Unité(s),True,False
+"Collier de serrage 7,6x290 Noir(pqt100)",1.0,0.0,All,Unité(s),True,False
+Combinaison chimique type 4 taille L,1.0,0.0,All,Unité(s),True,False
+Compresse stériles 30,1.0,0.0,All,Unité(s),True,False
+Conception Logo,10000.0,1.0,Conception,Unité(s),True,True
+Conception tee-shirt,10000.0,1.0,Conception,Unité(s),True,True
+Correction de Texte de 35 mots,50.0,0.0,Conception,35 mots,False,True
+Couché Matt 250g,343.05,168.81,Papier,A1(65x100),True,False
+Couché Matt 300g,388.27,192.37,Papier,A1(65x100),True,False
+Couché brillant 115g,147.36,1000.0,Papier,A1(65x100),True,False
+Couché brillant 250g,343.05,2000.0,Papier,A1(65x100),True,False
+Couché brillant 250g (125FLLES),343.05,0.0,Papier,A1(65x100),True,False
+Couché brillant 250g (250FLLES),343.05,0.0,Papier,A1(65x100),True,False
+Couché brillant 300g,388.27,221.19,Papier,A1(65x100),True,False
+Couché matt 115g,147.36,220.34,Papier,A1(65x100),True,False
+Couverture pour reliure couleur bleu,1.0,0.0,All,Unité(s),True,False
+Couverture transparente pour reliure,1.0,0.0,All,Unité(s),True,False
+Crayon,1.0,0.0,All,Unité(s),True,False
+Crayon charpentier,1.0,0.0,All,Unité(s),True,False
+Câble HDMI VGA,1.0,0.0,All,Unité(s),True,False
+DEPLIANT A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+DEPLIANT A4,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+DEPLIANT A5,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+DIAZO,1.0,0.0,All,Unité(s),True,False
+DIPLOME,1000.0,0.0,cartes de visite,Unité(s),False,True
+DOS BLEU,2000.0,667.0,Etiquette,100CM² (100CM Hauteur),True,False
+DOS BLEU IMPRIME,0.0,0.0,Etiquette,Unité(s),False,True
+DOSSIER BLANC 240G,321.22,77.97,Papier,A1(65x100),True,False
+"DOSSIER D'HOSPITALISATION (DOSSIER MEDICAL) RECTO VERSO 32,6X46",400.0,0.0,Documents administratifs,Unité(s),False,True
+"DOSSIER D'HOSPITALISATION VERT 32,5X46,1",600.0,0.0,Documents administratifs,Unité(s),False,True
+DOSSIER D'IDENTIFICATION DU PERSONNEL A3,1.0,0.0,Documents administratifs,Unité(s),True,True
+DOSSIER D'IDENTIFICATION DU PERSONNEL A3,1.0,0.0,Documents administratifs,Unité(s),True,True
+DOSSIER D'IDENTIFICATION DU PERSONNEL A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+"DOSSIER DE CONSULTATION A4  RECTO VERSO 28,2X20",70.0,0.0,Documents administratifs,Unité(s),False,True
+DOSSIER DE CONSULTATION EXTERNE AVEC INTERCALAIRE,267.0,0.0,Documents administratifs,Unité(s),True,True
+"DOSSIER DENTAIRE 14,2X40,5",100.0,0.0,Documents administratifs,Unité(s),False,True
+"DOSSIER DENTAIRE 14X40,1",100.0,0.0,Documents administratifs,Unité(s),False,True
+"DOSSIER ELECTROENCEPHALOGRAMME 31,1X46",300.0,0.0,Documents administratifs,Unité(s),True,True
+"DOSSIER ELECTROENCEPHALOGRAMME 32,5X46",500.0,0.0,Documents administratifs,Unité(s),False,True
+DOSSIER JAUNE 240 G,309.93,177.97,Papier,A1(65x100),True,False
+"DOSSIER NEONATAL A3 RECTO VERSO 29,4X48",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+DOSSIER OBSTETRIQUE,1.0,0.0,Documents administratifs,Unité(s),True,True
+"DOSSIER PATIENT ONCOLOGIE 06 FEUILLETS 29,3X41,4",750.0,0.0,Documents administratifs,Unité(s),False,True
+DRAPEAU CÔTE D'IVOIRE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+DRAPEAU D'ISRAEL,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+Diluant C,1500.0,1500.0,All,L,True,False
+Disque à tronçonné,1.0,0.0,All,Unité(s),True,False
+Dossier Bleu 240G,309.93,37.29,Papier,A1(65x100),True,False
+Dossier bleu 180G,309.93,71.53,Papier,A1(65x100),True,False
+Dossier patient,1000.0,0.0,Documents administratifs,Unité(s),False,True
+Dossier rose 180 G,309.93,177.97,Papier,A1(65x100),True,False
+Dossier rose 220g,309.93,118.65,Papier,A1(65x100),True,False
+Dossier rose 240g,309.93,149.15,Papier,A1(65x100),True,False
+Dossier vert 240G,309.93,168.81,Papier,A1(65x100),True,False
+DÉGRIPPANT,1.0,0.0,All,Unité(s),True,False
+Désodorisant,1.0,0.0,All,Unité(s),True,False
+Développeur  de plaque composition,1.0,0.0,All,Unité(s),True,False
+EAU CÉLESTE PACK DE 9,1.0,0.0,All,Unité(s),True,False
+EAU DE MOUILLAGE 20L,1.0,0.0,Impression,L,True,False
+"ECHOGRAPHIE OBSETRICALE A4 RECTO VERSO 29,7x21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+"ELECTROCARDIOGRAMME 21,7X30,7",100.0,0.0,Impression,Unité(s),False,True
+EMBALLAGES CARTE CADEAU,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+ENCADREMENT PHOTO MOYEN,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+ENCADREMENT PHOTO PREMIUM,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+ENCADREMENT PHOTO STANDARD,1.0,0.0,Finition,Unité(s),True,True
+ENCRE 17 A,1.0,0.0,All,Unité(s),True,False
+ENCRE ARGENT 0.3KG,1.0,0.0,All,Unité(s),True,False
+ENCRE ARGENT 1KG,1.0,0.0,All,Unité(s),True,False
+ENCRE BLANC 0.3KG,1.0,0.0,All,Unité(s),True,False
+ENCRE BLEU  KONICA MINOLTA C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE BLEU HP PRO .200M276,80500.0,35000.0,Encre,Unité(s),True,False
+ENCRE BLEU KONICA C3070L,171524.8,74576.0,Encre,Unité(s),True,False
+ENCRE BLEU KONICA MINOLTA BIZHUB C554E,0.0,0.0,Encre,Unité(s),True,False
+ENCRE BLEU KONICA MINOLTA BIZHUB C554E grand,0.0,0.0,Encre,Unité(s),True,False
+ENCRE BLEU KONICA MINOLTA C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE BLEU XEROX WORK CENTRE 7845,115000.0,0.0,Encre,Unité(s),True,False
+ENCRE BLEU XEROX WORKCENTRE 7120,115000.0,50000.0,Encre,Unité(s),True,False
+ENCRE HP 123 couleur,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 123 noir,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 305 NOIR,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 305 couleurs,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 61 couleurs,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 61 noir,1.0,0.0,All,Unité(s),True,False
+ENCRE HP 79A,1.0,0.0,All,Unité(s),True,False
+ENCRE HP A05,1.0,0.0,All,Unité(s),True,False
+ENCRE JAUNE  KONICA MINOLTA C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE JAUNE HP PRO .200M276,80500.0,35000.0,Encre,Unité(s),True,False
+ENCRE JAUNE KONICA C3070L,175423.3,76271.0,Encre,Unité(s),True,False
+ENCRE JAUNE KONICA MINOLTA BIZHUB C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE JAUNE KONICA MINOLTA BIZHUB C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE JAUNE KONICA MINOLTA C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE JAUNE XEROX WORK CENTRE 7845,115000.0,0.0,Encre,Unité(s),True,False
+ENCRE JAUNE XEROX WORKCENTRE 7120,115000.0,50000.0,Encre,Unité(s),True,False
+ENCRE LIQUIDE,1.0,0.0,All,Unité(s),True,False
+ENCRE MAGENTA,1.0,0.0,All,Unité(s),True,False
+ENCRE NOIR  KONICA MINOLTA C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE NOIR HP PRO .200M276,80500.0,35000.0,Encre,Unité(s),True,False
+ENCRE NOIR KONICA C3070L,97457.9,42373.0,Encre,Unité(s),True,False
+ENCRE NOIR KONICA MINOLTA C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE NOIR XEROX WORK CENTRE 7845,115000.0,0.0,Encre,Unité(s),True,False
+ENCRE NOIR XEROX WORKCENTRE 7120,115000.0,50000.0,Encre,Unité(s),True,False
+ENCRE NOIRE KONICA MINOLTA BIZHUB C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE NOIRE KONICA MINOLTA BIZHUB C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE NOIRE TEXILAC 250g,1.0,0.0,All,Unité(s),True,False
+ENCRE OR 0.3KG,1.0,0.0,All,Unité(s),True,False
+"ENCRE OR 1,5Kg",1.0,0.0,All,Unité(s),True,False
+ENCRE OR 1Kg,1.0,0.0,All,Unité(s),True,False
+ENCRE ROSE TEXILAC 250g,1.0,0.0,All,Unité(s),True,False
+ENCRE ROUGE HP PRO .200M276,80500.0,35000.0,Encre,Unité(s),True,False
+ENCRE ROUGE KONICA C3070L,159821.6,69492.0,Encre,Unité(s),True,False
+ENCRE ROUGE KONICA MINOLTA C554E,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE ROUGE KONICA MINOLTA C554E grand,171524.8,0.0,Encre,Unité(s),True,False
+ENCRE ROUGE XEROX WORK CENTRE 7845,115000.0,0.0,Encre,Unité(s),True,False
+ENCRE ROUGE XEROX WORKCENTRE 7120,115000.0,50000.0,Encre,Unité(s),True,False
+ENCRE SUBLIMATION BLEU,0.0,0.0,All,Unité(s),True,False
+ENCRE SUBLIMATION JAUNE,0.0,0.0,All,Unité(s),True,False
+ENCRE SUBLIMATION NOIR,0.0,0.0,All,Unité(s),True,False
+ENCRE SUBLIMATION ROUGE,0.0,0.0,All,Unité(s),True,False
+ENCRE VERT TEXILAC 250g,1.0,0.0,All,Unité(s),True,False
+ENCREUR ROUGE,1.0,0.0,All,Unité(s),True,False
+ENCRIERS MOYEN,1.0,0.0,All,Unité(s),True,False
+ENCRIERS PETIT,1.0,0.0,All,Unité(s),True,False
+ENSEIGNE,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+ENTÊTE LETTRES,25.0,0.0,Documents administratifs,Unité(s),False,True
+ENVELOPPE,1.0,0.0,Papier,Unité(s),True,True
+ENVELOPPE 11/16,1.0,0.0,All,Unité(s),True,False
+ENVELOPPE 11/22 A FENÊTRE,85.76,0.0,All,Unité(s),True,False
+ENVELOPPE 11/22 SANS FENÊTRE,85.76,0.0,All,Unité(s),True,False
+ENVELOPPE BLANCHE A3,155.93,67.8,All,Unité(s),True,False
+ENVELOPPE BLANCHE A4,97.46,42.73,All,Unité(s),True,False
+ENVELOPPE BLANCHE A5,48.73,21.19,All,Unité(s),True,False
+ENVELOPPE BLANCHE A6,19.49,8.47,All,Unité(s),True,False
+ENVELOPPE KAKI A3,116.95,50.85,All,Unité(s),True,False
+ENVELOPPE KAKI A4,85.76,37.29,All,Unité(s),True,False
+ENVELOPPE KAKI A4 POCHETTE,85.76,0.0,All,Unité(s),True,False
+ENVELOPPE KAKI A5,35.08,15.25,All,Unité(s),True,False
+ENVELOPPE KAKI A6,19.49,8.47,All,Unité(s),True,False
+ESCABEAU 8 MARCHE,1.0,0.0,All,Unité(s),True,False
+ESCABEAU 9 MARCHE,1.0,0.0,All,Unité(s),True,False
+ESCODYNE,1.0,0.0,All,Unité(s),True,False
+ETIQUETTES,1.0,0.0,Etiquette,"A4(25x32,5)",False,True
+Encre Blanc vinylique 250g,1.0,0.0,All,Unité(s),True,False
+Encre Orange vinylique 250g,1.0,0.0,All,Unité(s),True,False
+Encre noir vinylique 250g,1.0,0.0,All,Unité(s),True,False
+Encre or 1KG,1.0,0.0,All,Unité(s),True,False
+Encre or vinylique 250g,1.0,0.0,All,Unité(s),True,False
+Encre rouge vif vinylique 500g,1.0,0.0,All,Unité(s),True,False
+Encre violet 1kg,1.0,0.0,All,Unité(s),True,False
+Encre à eau Gris 500g,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu ciel 1/2,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu ciel 1/4,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu ciel 1KG,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu marine 1/2,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu marine 1/4,1.0,0.0,All,Unité(s),True,False
+Encre à eau bleu marine 1KG,1.0,0.0,All,Unité(s),True,False
+Encre à eau jaune or 1/2,1.0,0.0,All,Unité(s),True,False
+Encre à eau jaune or 1/4,1.0,0.0,All,Unité(s),True,False
+Encre à eau jaune or 1KG,1.0,0.0,All,Unité(s),True,False
+Encre à eau vert CI 500g,1.0,0.0,All,Unité(s),True,False
+Eponge végétale Spontex grand,2950.0,2950.0,All,Unité(s),True,False
+Eponge végétale Spontex petit,1425.0,1425.0,All,Unité(s),True,False
+FACTURES NORMALISEES,205.0,0.0,Documents administratifs,Unité(s),False,True
+"FEUILLE DE SURV.PARAMETRE VITAUX A3 RECTO VERSO 29,8X42",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FEUILLE DE SURVEILLANCE A3 RECTO 29,8X42",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FEUILLE DE TRAITEMENT A4 RECTO 29,6X21,1",15.0,0.0,Documents administratifs,Unité(s),False,True
+"FEUILLE ECHOGRAPHIE GENERALE 31X44,3 A3",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FEUILLE ECHOGRAPHIE PELVIENNE A4 RECTO VERSO 29,7x21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+FEUILLES D'ENCRIE SORM 72,0.0,0.0,All,Unité(s),True,False
+"FICHE  BLEUE RECAPITULATIF EXAMEN ET ACTES 29,6X20,8",35.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE ANAPATH 02 feuillets AUTOCARBONNÉ 14,3X20",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE BIOCHIMIE A4 RECTO 29,7X21,1",15.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE BULLETIN D'ANALYSES BIOLOGIQUES 01 FEUILLET 21,1X14,9",24.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE BULLETIN D'ANALYSES BIOLOGIQUES 01 feuillet 24,5X17,6",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE BULLETIN D'ANALYSES BIOLOGIQUES 02 FEUILLETS A5 autocarbonné 21,2X15,2",24.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE BULLETIN D'EXAMEN 02 FEUILLETS AUTOCARBONNÉ 19,9X14,5",24.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE BULLETIN DE SORTIE,0.0,0.0,Documents administratifs,Unité(s),True,True
+"FICHE CERTIFICAT D'ARRET DE TRAVAIL (D'ASSISTANCE MATERNELLE) 20,3X14,5",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE CERTIFICAT DE GROSSESSE 14,8X21",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE CERTIFICAT MEDICAL D'HOSPITALISATION 21X14,9",15.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE COMPTE RENDU MEDICAL NVLLE VERSION A4 RECTO VERSO 29,6X21",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE COMPTE RENDU MEDICAL NVLLE VERSION A4 RECTO VERSO 29,6X21",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE COMPTE RENDU SPERMOGRAMME 29,5X41,6 A3",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FICHE CONSOMMATION PHARMACIE 03 FEUILLETS AUTOCARBONNÉ 20,9X14,9",1.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE CONSOMMATION PHARMACIE 03 FEUILLETS AUTOCARBONNÉ 20,9X14,9",45.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE CONSOMMATION PHARMACIE A4 03 feuillets 27,9X20,2",70.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE D'ADMISSION A4 RECTO 29,7X21,1",20.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE D'ADMISSION A4 RECTO VERSO 29,7X21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE D'ANESTHESIE A3  RECTO VERSO 29,3X41,2",60.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FICHE D'ANESTHESIE A3 RECTO VERSO 29,9X42",35.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+FICHE D'ELECTROCARDIOGRAMME,1.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE D'IDENTIFICATION PEDIATRIE,1.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE DE CENTRE C.D.A.P.S DES URGENCES,1.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE CONSULTATIONS, VISITES, EXAMENS A4  RECTO 29,7X21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE DE GAZ DU SANG ARTERIEL RECTO 15X21,25.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE DE LIAISON JAUNE,35.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE NON PRISE EN CHARGE PAR LE CONTRAT D'ASS A4 RECTO 29,7X21,21",15.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE PERSONNE DE CONFIANCE RECTO A4 29,27X21",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE SOINS EXTERNES RECTO VERSO 29,6X21,21",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE STOCK 21X14,9",80.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE DE STOCK PHARMACIE A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+FICHE DE STOCK SERVICE ECONOMIQUE A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE DE SURVEILLANCE A4 RECTO VERSO 28,5X20,5",75.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FICHE ELECTROCARDIOGRAMME 21,7X40,5",175.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"FICHE ELECTROCARDIOGRAMME 23,5X32",100.0,0.0,All,Unité(s),False,True
+"FICHE EXAMEN CYTOBACTERIOLOGIQUE D'UN PRELEVEMENT CERVICO VAGINAL A4 RECTO 29,7X21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE HEMOCULTURE RECTO A4 29,7X21,1",15.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE ORDONNANCIER 21X14,2 /BLOC DE 100",700.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHE SOIN INFIRMERIE  A4 RECTO VERSO 29,7X21,1",25.0,0.0,Documents administratifs,Unité(s),False,True
+"FICHES DE SOINS AUXILIAIRES A4 RECTO VERSO 29,7X21,1",35.0,0.0,Documents administratifs,Unité(s),False,True
+FILM DE Pelliculage  BRILLANT A3,345.0,150.0,All,Unité(s),True,False
+FILM DE Pelliculage  MATT A3,345.0,0.0,All,Unité(s),True,False
+FLYERS - PROSPECTUS A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+FLYERS - PROSPECTUS A5,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+FLYERS - PROSPECTUS A6,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+FOLIOTEUR,1.0,0.0,All,Unité(s),True,False
+FOREX,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+FOREX A,0.0,0.0,All,Unité(s),True,False
+FOURREAU DE BADGE AVEC CORDE,1.0,0.0,All,Unité(s),True,False
+Factures Normalisées 200x2,120000.0,0.0,Documents administratifs,Unité(s),True,True
+Fil Elec H07 VU U500V 4MM BLEU NEX,1.0,0.0,All,Unité(s),True,False
+Fil Elec H07 VU U500V 6MM BLEU NEX,1.0,0.0,All,Unité(s),True,False
+Fil Electrique 4 carré,1.0,0.0,All,Unité(s),True,False
+Fil Électrique 6 carré,1.0,0.0,All,Unité(s),True,False
+Film de plastique,230.0,100.0,All,Unité(s),True,False
+Flashage,2300.0,1000.0,Photogravure,"A4(25x32,5)",True,False
+GANTS DE MANŒUVRE,1.0,0.0,All,Unité(s),True,False
+GANTS MEDICAUX (PAQUET),1.0,0.0,All,Unité(s),True,False
+GEL BRILLANT 0.3KG,1.0,0.0,All,Unité(s),True,False
+GOMME 10L,17500.0,0.0,Photogravure,L,True,False
+GOMME 20L,0.0,0.0,Photogravure,L,True,False
+GOMME PAPIER,1.0,0.0,All,Unité(s),True,False
+GOURDE METTALIQUE,1.0,0.0,gadget à imprimer,Unité(s),False,True
+GRAND PUBLIC,300.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+GRIFFES,300.0,150.0,All,Unité(s),True,False
+GRIFFES IMP,300.0,0.0,All,Unité(s),False,True
+Gants à usage unique,1.0,0.0,All,Unité(s),True,False
+Glissière P/Tiroir Maron EPOXY350mm,1.0,0.0,All,Unité(s),True,False
+Glissière P/Tiroir Maron EPOXY400mm,1.0,0.0,All,Unité(s),True,False
+Glissière P/Tiroir Maron EPOXY450mm,1.0,0.0,All,Unité(s),True,False
+HUILE DE MOTEUR 10L,1.0,0.0,All,Unité(s),True,False
+HUILE DE MOTEUR 20L,1.0,0.0,All,Unité(s),True,False
+IMPRESSION (UNIQUEMENT) KAKEMONO,25000.0,0.0,Impression,Unité(s),True,True
+INTERCALAIRE DE DOSSIER CONSULTATION EXTERNE,119.0,0.0,Documents administratifs,Unité(s),True,True
+INVIATATION DE MARIAGE,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+INVITATION DE MARIAGE PREDEFINIE,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+Imprimante HP laser jet M12W,1.0,0.0,All,Unité(s),True,False
+Internet,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+JAUNE 1KG,1.0,0.0,All,Unité(s),True,False
+JAVEL 1L,1.0,0.0,All,Unité(s),True,False
+JOURNAL A4,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+KA,0.0,0.0,All,Unité(s),True,True
+KAKEMONO STANDARD,5000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+KIT DE PAIEMENT,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+"L'évolution de l'imprimerie en Côte d'Ivoire : passé, présent et avenir",1.0,0.0,Documents administratifs,Unité(s),True,True
+LAME DE CUTTER,1000.0,1000.0,All,Unité(s),True,False
+LAME DE RACLE GTO 46,30000.0,0.0,All,Unité(s),True,False
+LAME DE RACLE GTO 52,30000.0,0.0,All,Unité(s),True,False
+LAME DE RACLE SORMZ,30000.0,0.0,All,Unité(s),True,False
+LARME AFFÛTÉE,1.0,0.0,All,Unité(s),True,False
+LARME DE RACLE SORMZ,1.0,0.0,All,Unité(s),True,True
+LIASSE  A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+LIASSE  A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+LIASSE  A6,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+LIASSE  SERVICE FACTURATION,1.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE AVIS D'HOSPITALISATION  A5,1.0,0.0,Documents administratifs,Unité(s),False,True
+LIASSE D'IMAGERIE MEDICALE,205.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE D'ORDONNANCE INTERNE HOSPITALISATION,350.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE D'ORDONNANCE INTERNE URGENCE,125.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE DE FACTURE HOSPITALISATION (PAPIER CONTINU),135.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE FICHE D'ADMISSION,80.0,0.0,Documents administratifs,Unité(s),True,True
+LIASSE PARAVENT BLANC (PAPIER CONTINU),250.0,0.0,All,Unité(s),True,False
+LIQUIDE DE MOUILLAGE VINYL,1.0,0.0,Finition,Unité(s),True,True
+LIVRE A4,1.0,0.0,Invitations et papeterie,Unité(s),False,True
+LIVRE A5,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+LIVRE A6,1.0,0.0,Documents administratifs,Unité(s),True,True
+LUNETTE ANTI UV NOIR,1.0,0.0,All,Unité(s),True,False
+Lunettes pan view noir,1.0,0.0,All,Unité(s),True,False
+MAGENTA 1Kg,3400.0,3400.0,Encre,kg,True,False
+"MAGENTA 2,5 Kg",10000.0,10000.0,Encre,kg,True,False
+MAILLOT,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+MANODÉTENTEUR,275000.0,0.0,Conception,Unité(s),False,True
+MARKER PERMANENT,1.0,0.0,INTERNE,Unité(s),True,False
+MARQUEUR PERMANENT,1.0,0.0,All,Unité(s),True,False
+MASQUE AVEC FILTRE AIR,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+MEDICAMENT DE SOURIS,1.0,0.0,All,Unité(s),True,False
+MEULE DE 1500W,1.0,0.0,All / Saleable,Unité(s),True,True
+MEULE DE 1500W (copie),1.0,0.0,All / Saleable,Unité(s),True,True
+MEULE DE 2600W,1.0,0.0,All / Saleable,Unité(s),True,True
+MEULE DE 3000W,1.0,0.0,All / Saleable,Unité(s),True,True
+MEULE DE 950W INGCO,1.0,0.0,All / Saleable,Unité(s),True,True
+MICROPERFORE,7800.0,0.0,gadget à imprimer,Unité(s),False,True
+MICROPERFORE 1 METRE,184000.0,80000.0,All,100CM² (100CM Hauteur),True,False
+MOLETON GTO 46,1.0,0.0,All,Unité(s),True,False
+MOLETON GTO 52,1.0,0.0,All,Unité(s),True,False
+MOLETON SORM,1.0,0.0,All,Unité(s),True,False
+MOULE,1.0,0.0,Conception,Unité(s),True,True
+MOYEN QUALITÉ,400.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+MUR DE STAR,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+Marker à tableau effaçable marque Bic,1.0,0.0,All,Unité(s),True,False
+Masque complet Galaxy M9200 fixation ROTOR,1.0,0.0,All,Unité(s),True,False
+Mortaise à chaine avec son bloc,1.0,0.0,All,Unité(s),True,False
+Multiprise,1.0,0.0,All,Unité(s),True,False
+NEO,0.0,0.0,All,Unité(s),True,True
+NOIR 1Kg,3000.0,3000.0,Encre,kg,True,False
+"NOIR 2,5 Kg",8000.0,8000.0,Encre,kg,True,False
+NOTICE,0.0,0.0,Documents administratifs,Unité(s),True,True
+Numéroteur platine,1.0,0.0,All,Unité(s),True,False
+Numéroteur à Main,1.0,0.0,All,Unité(s),True,False
+OFFSET 100G,100.97,600.0,Papier,A1(65x100),True,False
+OFFSET 80G BLEU,192.0,0.0,All,A1(65x100),True,False
+OFFSET 80G JAUNE,192.0,0.0,All,A1(65x100),True,False
+OFFSET 80G ORDINAIRE,100.97,268.48,Papier,A1(65x100),True,False
+OFFSET 80G ROUGE,192.0,0.0,All,A1(65x100),True,False
+OFFSET 80G VERT,192.0,0.0,All,A1(65x100),True,False
+OFFSET 90G PREMIUM 250f,128.64,177.97,Papier,A1(65x100),True,False
+OFFSET 90G ordinaire 500f,128.64,338.99,Papier,A1(65x100),True,False
+OMO POUDRE,1.0,0.0,All,Unité(s),True,False
+OMO POUDRE DEMI,1.0,0.0,All,Unité(s),True,False
+ORANGE 021 0.5KG,11400.0,0.0,Encre,kg,True,False
+ORANGE 021 1Kg,11400.0,11440.0,Encre,kg,True,False
+"ORANGE 021 2,5 Kg",1.0,0.0,Encre,kg,True,False
+"ORDONNANCIER 20,7X14,3 /BLOC DE 100",700.0,0.0,Documents administratifs,Unité(s),False,True
+"ORDONNANCIER DR SAFI RECTO 23,3X18 BLOC DE 100",700.0,0.0,Documents administratifs,Unité(s),False,True
+"ORDONNANCIER OPHTALMOLOGIE A5 RECTO 21,1X15  BLOC DE 100",700.0,0.0,Documents administratifs,Unité(s),False,True
+Offset 60g ORDINAIRE VERT,87.72,77.97,Papier,A1(65x100),True,False
+Offset 70g ORDINAIRE,87.72,50.34,Papier,A1(65x100),True,False
+Offset 70g PREMIUM,87.72,0.0,Papier,A1(65x100),True,True
+Offset 80g  PREMIUM,111.11,80.0,Papier,A1(65x100),True,False
+Onduleur 1000VA,1.0,0.0,All,Unité(s),True,False
+Onduleur APC 650VA,1.0,0.0,All,Unité(s),True,False
+PANNEAUX GALVA ARRETE,40000.0,30000.0,All,Unité(s),True,False
+PANNEAUX GALVA TREPIED,30000.0,20000.0,All,Unité(s),True,False
+PAPIER FIENDRA 240g,1.0,47.46,Papier,Unité(s),True,True
+PAPIER PEINT,1.0,0.0,Finition,Unité(s),True,True
+PAPIER SUBLIMATION,184.0,134.75,Papier,"A4(25x32,5)",True,False
+PAPIER TRANSFERT CLAIR,644.0,127.12,Papier,"A4(25x32,5)",True,False
+PAPIER TRANSFERT FONCE,644.0,377.12,Papier,"A4(25x32,5)",True,False
+PAQUET COUCHE BRILLANT,1.0,0.0,Papier,Unité(s),True,True
+PAQUET DE CARBON,1.0,0.0,All,Unité(s),True,False
+PAQUET DE POCHETTE PERFOREE,0.0,0.0,Documents administratifs,Unité(s),True,True
+PAQUET TOILE,1.0,0.0,Papier,Unité(s),True,True
+PARAPLUIE,1.0,0.0,gadget à imprimer,Unité(s),True,True
+PARASOL,0.0,0.0,gadget à imprimer,Unité(s),True,True
+PIEGE DE SOURIS,1.0,0.0,All,Unité(s),True,False
+PIGMENT BLEU 0.02KG,1.0,0.0,All,Unité(s),True,False
+PIGMENT ROUGE 0.02KG,1.0,0.0,Encre,Unité(s),True,True
+PILE ENERGIZER,1.0,0.0,Documents administratifs,Unité(s),True,True
+PIN'S,1.0,0.0,All / Saleable,Unité(s),False,True
+PINCE A LINGE,1.0,0.0,All,Unité(s),True,False
+PINCE COUPANTE,1.0,0.0,All / Saleable,Unité(s),True,True
+PINCEAU N3,1.0,0.0,All,Unité(s),True,False
+PISTOLET A AIR CHAUD,1.0,0.0,All / Saleable,Unité(s),True,True
+PLAQUE GTO 46,976.0,0.0,All,"A4(25x32,5)",True,False
+PLAQUE GTO 52,1.0,550.0,All,PAQUET 100U,True,False
+PLAQUE SORM,3220.0,1400.0,Photogravure,"A4(25x32,5)",True,False
+PLAQUETTE,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+PLASTIQUE DE RELIURE,1.0,0.0,All,Unité(s),True,False
+PLEXIGLASS,240000.0,120000.0,All,Unité(s),True,False
+PLEXIGLASS BLANC,0.0,0.0,gadget à imprimer,Unité(s),False,True
+PLEXIGLASS TRANSPARENT,0.0,0.0,All / Saleable,Unité(s),False,True
+PLEXIGLASS TRANSPARENT 3M,240000.0,0.0,All,Unité(s),True,False
+PNEU radial kumo marshal,1.0,0.0,All,Unité(s),True,False
+"POCHETTE D UNITE D EXPLOITATION 32,6X46",250.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"POCHETTE D'ECHOGRAPHIE 32,5X46",400.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"POCHETTE D'UNITÉ D'HEMODYNAMIQUE ET DE CARDIOLOGIE INTERVENTIONNELLE 32,6X46",250.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+"POCHETTE DE CHAMPS VISUEL 31,7X45",267.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+POCHETTES A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+POLO (COUTURE),8000.0,0.0,All / Saleable,Unité(s),True,True
+POLO 1/40,4000.0,0.0,All,Unité(s),True,False
+POLO 1/50,4000.0,0.0,All,Unité(s),True,False
+POLO 1/60,4000.0,0.0,All,Unité(s),True,False
+POLO 500G LOURD GRIS,4000.0,0.0,All,Unité(s),True,False
+POLO 500G LOURD JAUNE,4000.0,0.0,All,Unité(s),True,False
+POLO 500G LOURD NOIR,4000.0,0.0,All,Unité(s),True,False
+POLO 500G LOURD VIP,4000.0,0.0,All,Unité(s),True,False
+POLO 500G LOURD VIP BLANC,4000.0,0.0,All,Unité(s),True,False
+POLO 600G BLANC couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO 600G BLEU couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO 600G NOIR couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO 600G ROUGE BORDEAU couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO 600G ROUGE VIF couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO 600G couleurs unique,4000.0,0.0,All,Unité(s),True,False
+POLO GRAND PUBLIC,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+POLO IMPORTE 280G LEGER,3000.0,1100.0,All,Unité(s),True,False
+POLO IMPORTE 400G LOURD VIP,4000.0,1800.0,All,Unité(s),True,False
+POLO IMPORTE 400G LOURD VIP (copie),4000.0,0.0,All,Unité(s),True,False
+POLO IMPRIME,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+POLYPRO,138000.0,60000.0,All,100CM² (100CM Hauteur),True,False
+PORTE CLE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+PORTE CLE PLASTIQUE,345.0,150.0,Support marketing et publicitaire,Unité(s),True,False
+PORTE STYLOS,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+PORTE-CARTES DE VISITE ALUMINIUM NOIR,1.0,0.0,cartes de visite,Unité(s),True,True
+POSE,0.0,0.0,All,Unité(s),True,True
+POST -IT NOTRE BLEU,4500.0,0.0,Papier,Unité(s),True,True
+POST IT,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+POST IT ADHÉSIF CARRÉE DOUZAINE,0.0,0.0,All,Unité(s),True,False
+POST IT JAUNE,4500.0,0.0,Invitations et papeterie,Unité(s),True,True
+POST IT ORANGE,4500.0,0.0,Invitations et papeterie,Unité(s),True,True
+POT COLLE,1.0,0.0,All,Unité(s),True,False
+POUBELLE A PEDALE (10L),50000.0,0.0,All / Expenses,Unité(s),False,True
+POUBELLE en fer,50000.0,0.0,All,Unité(s),True,False
+POUDRE,2966.0,0.0,Photogravure,g,True,False
+POUDRE ANTIMACULANT  1KILOGRAMME,1.0,0.0,All,Unité(s),True,False
+POUDRE DE REVELATEUR,2966.0,3250.0,Photogravure,g,True,False
+PROTEGE CARTE DE VISITE,0.0,0.0,cartes de visite,Unité(s),True,True
+PUBLICITE,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+Pages additionnelles (35 pages),3000.0,0.0,Conception,Unité(s),False,True
+Papier de stylo,2300.0,127.12,Papier,"A4(25x32,5)",True,False
+Papier de tasse,184.0,134.75,Papier,"A4(25x32,5)",True,False
+Papier kraft,101.2,64.07000000000001,Papier,A1(65x100),True,False
+Paquet d'intercalaire,1.0,0.0,Documents administratifs,Unité(s),True,True
+Paquet de Marker,1.0,0.0,All,Unité(s),True,False
+Paquet stylo bleu Trio,1.0,0.0,All,Unité(s),True,False
+Paquet stylo bleu schneider,1.0,0.0,All,Unité(s),True,False
+Paquet stylo noir BIC,1.0,0.0,All,Unité(s),True,False
+Paquet stylo noir Trio,1.0,0.0,All,Unité(s),True,False
+Paquet stylo noir schneider,1.0,0.0,All,Unité(s),True,False
+Paquet stylo rouge BIC,1.0,0.0,All,Unité(s),True,False
+Paquet stylo rouge TRIO,1.0,0.0,All,Unité(s),True,False
+Paquet stylo rouge schneider,1.0,0.0,All,Unité(s),True,False
+Paracétamol,1.0,0.0,All,Unité(s),True,False
+Pelliculage,345.0,150.0,All,Unité(s),True,False
+Photo,200.0,0.0,Conception,Unité(s),False,True
+Pointe ord. Asil ATP n30 800G,1.0,0.0,All,Unité(s),True,False
+Pointe ord. Asil ATP n40 800G,1.0,0.0,All,Unité(s),True,False
+Pointe ord. Asil ATP n50 800G,1.0,0.0,All,Unité(s),True,False
+Pointe ord. Asil ATP n60 800G,1.0,0.0,All,Unité(s),True,False
+Pointe ord. Asil ATP n70 800G,1.0,0.0,All,Unité(s),True,False
+Pointe ord. Asil ATP n80 800G,1.0,0.0,All,Unité(s),True,False
+Poudre anti maculant 1kg,1.0,0.0,All,Unité(s),True,False
+Pulvérisateur pression préalable 5L,1.0,0.0,All,Unité(s),True,False
+QUALITÉ SUPÉRIEURE,450.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+QUALITÉ VIP,500.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+RAME CB BLANC,1.0,0.0,Papier,Unité(s),True,True
+RAME CFB BLEU,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+RAME CFB JAUNE,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+RAME CFB VERT,1.0,0.0,Invitations et papeterie,Unité(s),True,True
+RAME OFFSET BLANC,1.0,0.0,Papier,Unité(s),True,True
+RAMETTE DOUBLE A,1.0,0.0,Papier,Unité(s),False,True
+RAMETTE DOUBLE A A4 BLANC 80G,0.0,0.0,Papier,Unité(s),True,True
+REGISTRE,1.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE 12 MAINS,15000.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE 5 MAINS,8260.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE 6 MAINS,9440.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE ARRIVÉ /DÉPART 24X32,1.0,0.0,All,Unité(s),True,False
+REGISTRE ARRIVÉ /DÉPART A4,1.0,0.0,All,Unité(s),True,False
+REGISTRE COMPTE RENDU DE FIBROSCOPIE ET BRONCHIQUE A4,1.0,0.0,Documents administratifs,Unité(s),False,True
+"REGISTRE D'ACCOUCHEMENT  RECTO VERSO 50 PAGES 35,9X54",1200.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE D'ACCOUCHEMENT A3,8260.0,0.0,Documents administratifs,Unité(s),True,True
+REGISTRE DE DISPENSATION ARV ADULTE,12000.0,0.0,Documents administratifs,Unité(s),False,True
+REGISTRE DE DISPENSATION ARV ENFANT,12000.0,0.0,Documents administratifs,Unité(s),False,True
+RIGIDEX BLANC,867.38,139.83,Papier,A1(65x100),True,False
+RIGIDEX BLANC 315G,867.38,423.73,Papier,A1(65x100),True,False
+RIGIDEX BLANC 355G,867.38,600.0,Papier,A1(65x100),True,False
+RIGIDEX BLANC 355G,867.38,0.0,Papier,A1(65x100),True,False
+RIGIDEX BLEU,867.38,500.0,Papier,A1(65x100),True,False
+RIGIDEX JAUNE,867.38,1000.0,Papier,A1(65x100),True,False
+RIGIDEX ORANGE,867.38,377.12,Papier,A1(65x100),True,False
+RIGIDEX VERT,867.38,377.12,Papier,A1(65x100),True,False
+ROUGE FEU 1Kg,8000.0,8000.0,Encre,kg,True,False
+"ROUGE FEU 2,5 Kg",29500.0,29500.0,Encre,kg,True,False
+ROUGE PRIMAIRE 1Kg,8000.0,0.0,Encre,kg,True,False
+ROUGE RUBINE,8051.0,0.0,Encre,kg,True,False
+ROULEAUX ADHESIF TRANSPARENT,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+Rallonge 4 trous,1.0,0.0,All,Unité(s),True,False
+Re-fabrication Logo,10000.0,0.0,Conception,Unité(s),False,True
+Recherche d'image,1000.0,0.0,Conception,Unité(s),False,True
+Retardateurs 1L,1.0,0.0,All,Unité(s),True,False
+Roulement GTO46,2500.0,2500.0,All,Unité(s),True,False
+Roulement GTO52,2500.0,0.0,All,Unité(s),True,False
+Roulement SORM,0.0,5000.0,All,Unité(s),True,False
+RÈGLE 30 CM,1.0,0.0,All,Unité(s),True,False
+RÉGLETTE POLAR 72,1.0,0.0,All,Unité(s),True,False
+SAC A DOS PULL-UP,2500.0,0.0,gadget à imprimer,Unité(s),True,True
+SAC CABA,0.0,0.0,gadget à imprimer,Unité(s),True,True
+SAC CHIFFON,1.0,0.0,All,Unité(s),True,False
+SAC D'ORDINATEUR,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+SAC EN TOILE,0.0,0.0,All,Unité(s),True,False
+SAC EN TOILE AVEC MANCHE,0.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+SAC EN TOILE AVEC POIGNEE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SAC PLASTIQUE BIODEGRADABLE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SACHET NOIR 1M,1.0,0.0,All,Unité(s),True,False
+SACHET PLASTIQUE BIODEGRADABLE,0.0,0.0,All,Unité(s),True,False
+SACHETS PAPIERS,150000.0,0.0,Papier,Unité(s),True,True
+SALOPETTE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SCEAU ORDINAIRE,1.0,0.0,All,Unité(s),True,False
+SIMILI CUIR,1.0,0.0,Finition,Unité(s),False,True
+SIMILI CUIR 1M/1M40,1.0,0.0,All,Unité(s),True,False
+SKY,1.0,0.0,All,Unité(s),False,True
+SKY 1M/1M40,1.0,0.0,All,Unité(s),True,False
+SOURIS AVEC FIL,1.0,0.0,All,Unité(s),True,False
+SOUS-CHEMISES,1.0,0.0,Documents administratifs,Unité(s),True,True
+SOUS-TRAITANCE,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SPIRAL METALLIQUE N 12,1.0,0.0,All,Unité(s),True,False
+SPIRAL METALLIQUE N 13,1.0,0.0,All,Unité(s),True,False
+SPIRAL METALLIQUE N 8,1.0,0.0,All,Unité(s),True,False
+SPIRAL METALLIQUE N 9,1.0,0.0,All,Unité(s),True,False
+STICKERS,22.0,22.0,All,Unité(s),True,False
+STYLO BIC CRISTAL BLEU,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+STYLO BIC CRISTAL NOIR,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+STYLO BLEU SCHNEIDER,0.0,0.0,gadget à imprimer,Unité(s),True,True
+STYLO GRAND QUANTITE,1.0,0.0,gadget à imprimer,Unité(s),True,True
+STYLO MOYENNE QUALITÉ,400.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+STYLO PETITE QUALITÉ,300.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+STYLO PUBLICITAIRE,200.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+STYLO QUALITÉ SUPERIEURE,500.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+STYLO VIP,700.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+SUPPORT DE KAKEMONO 85X200 GROS BAS (LUXE),65000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SUPPORT DE KAKEMONO 85X200 PETIT BAS (STANDARD),45000.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+SUPPORT DE KAKEMONO BLANC,65000.0,0.0,All,Unité(s),True,False
+SURLIGNEUR,800.0,0.0,All / Expenses,Unité(s),True,True
+Saisie de Texte,400.0,0.0,Conception,35 mots,False,True
+Scotch de montage,1.0,250.0,All,Unité(s),True,False
+Scotch kaki,5750.0,2500.0,All,Unité(s),True,False
+Scotch kaki grand,1.0,0.0,All,Unité(s),True,False
+Scotch kaki petit,1.0,0.0,All,Unité(s),True,False
+Scotch papier grand,5750.0,0.0,All,Unité(s),True,False
+Scotch papier petit,5750.0,0.0,All,Unité(s),True,False
+Scotch petit,5750.0,0.0,All,Unité(s),True,False
+Scotch transparent GRAND,2300.0,0.0,All,Unité(s),True,False
+Scotch transparent PETIT,2300.0,0.0,All,Unité(s),True,False
+Serre-joint Menuisier 35x8 150CM,1.0,0.0,All,Unité(s),True,False
+Serre-joint Menuisier 35x8 200CM,1.0,0.0,All,Unité(s),True,False
+Serre-joint Menuisier F-100X12CM,1.0,0.0,All,Unité(s),True,False
+Serre-joint Menuisier F-150X12CM,1.0,0.0,All,Unité(s),True,False
+Serre-joint Menuisier F-40X12CM,1.0,0.0,All,Unité(s),True,False
+Soie ouvert pour tee-shirt,1.0,0.0,All,Unité(s),True,False
+Sous Blanchet sormz,1.0,0.0,All,Unité(s),True,False
+Sparadrap,1.0,0.0,All,Unité(s),True,False
+Split-smart 2Chevots,1.0,0.0,All,Unité(s),True,False
+Stabilisateur 2000VA,1.0,0.0,All,Unité(s),True,False
+Stabilisateur 5000VA smart(2PC/CTN),55000.0,0.0,All,Unité(s),True,False
+Support de téléphone marketing,650.0,200.0,Support marketing et publicitaire,Unité(s),True,True
+TABLIE,0.0,0.0,All,Unité(s),True,True
+TAPIS DE PORTE,1.0,0.0,All,Unité(s),True,False
+TAPIS DE SOURIS,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+TAPIS DE SOURIS,1.0,0.0,All,Unité(s),True,False
+TASSE,3000.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+TASSE CERAMIQUE,2300.0,1000.0,Support marketing et publicitaire,Unité(s),True,False
+TASSE CERAMIQUE BLANCHE,1.0,0.0,gadget à imprimer,Unité(s),True,True
+TASSE CERAMIQUE COULEUR,1.0,0.0,gadget à imprimer,Unité(s),False,True
+TASSE CERAMIQUE COULEUR,1.0,0.0,All,Unité(s),True,False
+TASSE CERAMIQUE MAGIE,1.0,0.0,All,Unité(s),True,False
+TASSE CERAMIQUE SIMPLE,1.0,0.0,gadget à imprimer,Unité(s),True,True
+TASSSE CERAMIQUE MAGIE,1.0,0.0,gadget à imprimer,Unité(s),False,True
+TEE SHIRT 1/40,0.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE SHIRT 1/50,0.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE SHIRT 1/60,0.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE SHIRT COUSU 2 TON,0.0,0.0,Sérigraphie,Unité(s),True,True
+TEE SHIRT COUTURE,0.0,0.0,Sérigraphie,Unité(s),True,True
+TEE SHIRT IMPRIME,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+TEE-SHIRT,2550.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC 1/40,2550.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC 1/50,2550.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC COULEURS UNIQUE,2700.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC IMPORTE 180G,1800.0,600.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC IMPORTE 220G,2400.0,800.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC IMPORTE 240G,2550.0,850.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT BLANC LOCAL 240G,2550.0,850.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT COL COLORÉ IMPORTE 180G,2000.0,700.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT COL COLORÉ IMPORTE 220G,2000.0,700.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT COL COLORÉ IMPORTE 240G,2700.0,900.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT COL COLORÉ LOCAL 240G,3000.0,1100.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT GRAND PUBLIC,1.0,0.0,Sérigraphie,Unité(s),True,True
+TEE-SHIRT NOIR COULEURS UNIQUE,2700.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TEE-SHIRT VERT 1/50,2550.0,0.0,Support marketing et publicitaire,Unité(s),True,False
+TICKET A6,0.0,0.0,Invitations et papeterie,Unité(s),True,True
+TIMBRE 100F,1.0,0.0,All,Unité(s),True,False
+TISSUS DE REGISTRE / MÈTRE,1.0,0.0,All,Unité(s),True,False
+TISSUS DE REGISTRE poplin lourd,1.0,0.0,All,Unité(s),True,False
+TOILE 90G,230.0,100.0,Papier,A1(65x100),True,False
+TONER 05A,58475.2,0.0,All,Unité(s),True,False
+TONER JAUNE KONICA MINOLTA TN61J,1.0,0.0,Encre,Unité(s),True,True
+TRACEUSE,100.0,0.0,Conception,Unité(s),False,True
+TRACEUSE 20CM,100.0,84.75,All,Unité(s),True,False
+TRACEUSE 30CM,150.0,127.12,All / Saleable,Unité(s),True,True
+TRANSPORT AFFICHE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+TROMBONE,1.0,0.0,All / Saleable,Unité(s),True,True
+TROMBONE32MM GALVA BOITE,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+TYPOMÈTRE 50cm,1.0,0.0,All,Unité(s),True,False
+Texilac orange 1kg,1.0,0.0,All,Unité(s),True,False
+Timbre,1.0,0.0,All,Unité(s),True,False
+Tissu en coton,1.0,0.0,All,Unité(s),True,False
+Toilé 300g,721.19,313.56,Papier,A1(65x100),True,False
+Toilé 400g,721.19,0.0,Papier,A1(65x100),True,False
+TÊTE D'IMPRESSION YINGHE XP600,1.0,0.0,All,Unité(s),True,False
+Téléphone smartphone,1.0,0.0,All,Unité(s),True,False
+VERNISSAGE D'AUTOCOLLANT,1.0,0.0,Finition,Unité(s),True,True
+VERT PANTONE 1Kg,8051.0,8051.0,Encre,kg,True,False
+"VERT PANTONE 2,5 Kg",1.0,0.0,Encre,kg,True,False
+VIDANGE,1.0,0.0,All / Expenses,Unité(s),True,True
+VINYL SABLE,1.0,0.0,All,Unité(s),True,False
+VINYL SABLE,1.0,0.0,All / Saleable,Unité(s),False,True
+VIOLET 1 Kg,16900.0,16900.0,Encre,kg,True,False
+"VIOLET 2,5 kg",1.0,0.0,Encre,kg,True,False
+Ventilateur,1.0,0.0,All,Unité(s),True,False
+Ventouse,1.0,0.0,All,Unité(s),True,False
+Ventouse à 2 trou,1.0,0.0,All,Unité(s),True,False
+Vernis sélectif,460.0,200.0,cartes de visite,Unité(s),True,False
+Vernis uv,0.0,0.0,All,L,True,False
+WASH,15000.0,1500.0,Impression,L,True,False
+WASH 10L,15000.0,0.0,Impression,L,True,False
+WASH 20L,15000.0,0.0,Impression,L,True,False
+YELLOW 1Kg,3400.0,3400.0,Encre,kg,True,False
+"YELLOW 2,5Kg",10000.0,10000.0,Encre,kg,True,False
+antibiotics ,1.0,0.0,All / Saleable,Unité(s),True,True
+article,1.0,0.0,Documents administratifs,Unité(s),True,True
+bloc-note,0.0,0.0,All / Saleable,Unité(s),True,True
+carn,0.0,0.0,All,Unité(s),True,True
+carnet simple bon de caiss,0.0,0.0,Documents administratifs,Unité(s),True,True
+chemises,1.0,0.0,Documents administratifs,Unité(s),True,True
+clavier,1.0,0.0,All,Unité(s),True,False
+conception depliant,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+coton codex hydro labell 25g,1.0,0.0,All,Unité(s),True,False
+entretoise,3000.0,1500.0,All,Unité(s),True,False
+facture normalise,0.0,0.0,Documents administratifs,Unité(s),True,True
+faire,0.0,0.0,All,Unité(s),True,True
+flyer ,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+ibuprofène,1.0,0.0,All,Unité(s),True,False
+infographie ,1.0,0.0,Conception,Unité(s),True,True
+intérieures de BROCHURE A3,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+intérieures de BROCHURE A4,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+intérieures de BROCHURE A5,1.0,0.0,Support marketing et publicitaire,Unité(s),False,True
+oeillets,250.0,0.0,All,Unité(s),True,False
+ordinateur,1.0,0.0,INTERNE,Unité(s),True,True
+photocall 240x240cm,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+photocall 240x240cm avec support,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+pins,0.0,0.0,gadget à imprimer,Unité(s),True,True
+porte-clés plastique,1.0,0.0,All,Unité(s),True,False
+poster,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+remontant,1.0,0.0,Conception,Unité(s),True,True
+reste à payer,1.0,0.0,Documents administratifs,Unité(s),True,True
+serpillière,1.0,0.0,All,Unité(s),True,False
+signalisation informative,0.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+stylos,1.0,0.0,All,Unité(s),True,False
+support,1.0,0.0,Support marketing et publicitaire,Unité(s),True,True
+support de branchement,1.0,0.0,All,Unité(s),True,False
+tableau padex 90x120,1.0,0.0,All,Unité(s),True,False
+thermomètre électronique,1.0,0.0,All,Unité(s),True,False
