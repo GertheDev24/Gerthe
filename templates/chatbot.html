@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chatbot UI</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+
+<style>
+body {
+    background-color: #000000; /* Black background */
+    font-family: 'Montserrat', sans-serif; /* Sets default font family to Montserrat */
+    margin: 0;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+  .chatbot-ui {
+    border: 1px solid #3C662E; /* Dark green borders */
+    width: 90%;
+    max-width: 700px;
+  }
+  .chatbot-header, .chatbot-title {
+    color: #6FBC55; /* Green font for the titles */
+    padding: 10px 20px; /* Padding for the title */
+    background-color: #000000; /* Ensuring the title background is black */
+  }
+
+/* Specific rules for titles */
+.chatbot-header, .chatbot-content strong {
+    color: #6FBC55; /* Specific green font color for titles */
+    font-weight: 600; /* Semi-bold font weight for titles */
+    margin-bottom: 20px;
+}
+
+/* Specific rules for the output box */
+.output-box {
+    border: 1px solid #62A64B;
+    background-color: #62A64B; /* Highlighted text output background */
+    padding: 5px;
+    color: #ffffff; /* White text for contrast */
+}
+
+/* Add a border between input and output boxes */
+.input-box, .output-box {
+    border: 1px solid #62A64B;
+    margin: 5px 0;
+    padding: 5px;
+}
+
+/* Use a pseudo-element to create a line between input and output boxes */
+.input-box + .output-box:before {
+    content: '';
+    display: block;
+    margin-top: -11px;
+    border-top: 1px solid #62A64B;
+}
+  .chatbot-section {
+    border-bottom: 1px solid #62A64B; /* Border between input and output */
+    padding: 10px;
+  }
+
+  .chatbot-section:last-child {
+    border-bottom: none; /* No border for the last section */
+  }
+
+  .chatbot-title {
+    font-weight: bold; /* Bold font weight for titles */
+  }
+
+  .chatbot-section p {
+    color: #399a42; /* Lighter green font for section content */
+    font-weight: normal; /* Normal font weight for content */
+  }
+
+  .output-highlight {
+    background-color: #426F33 !important; /* Green background for highlighted text */
+    color: #ffffff !important; /* White font for the highlighted output text */
+    padding: 0px 5px; /* Add some padding around the text */
+    display: inline; 
+}
+
+
+
+  .chatbot-content {
+    color: #FFFFFF; /* Green font for the input text */
+    font-weight: 300; /* Light font weight for general content */
+    white-space: pre-wrap; /* Keeps spacing and line breaks */
+}
+
+</style>
+</head>
+<body>
+
+<div class="chatbot-ui">
+  <div class="chatbot-header">Gerthe_IA</div>
+  <div class="chatbot-section chatbot-input">
+    <div class="chatbot-title">Input</div>
+    <p>Andrew is free from 11 am to 3 pm, Joanne is free from noon to 2 pm and then 3:30 pm to 5 pm. Hannah is available at noon for half an hour, and then 4 pm to 6 pm. What are some options for start times for a 30 minute meeting for Andrew, Hannah, and Joanne?</p>
+  </div>
+  <div class="chatbot-section chatbot-output">
+    <div class="chatbot-title">Output</div>
+    <p class="output-highlight">
+      Andrew: 11 am - 3 pm<br>
+      Joanne: 12 pm - 2 pm, 3:30 pm - 5 pm<br>
+      Hannah: 12 pm - 12:30 pm, 4 pm - 6 pm<br>
+      Common availability for a 30-minute meeting: 12 pm - 12:30 pm
+    </p>
+  </div>
+</div>
+
+</body>
+</html>

@@ -1,0 +1,78 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+  
+  body, html {
+    height: 100%;
+    background-color: #121212;
+    color: white;
+  }
+  
+  .chat-container {
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+  }
+  
+  .chat-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1rem;
+    background: #242424;
+  }
+  
+  .toggle-buttons {
+    /* Styling for the toggle buttons */
+  }
+  
+  .toggle-btn {
+    background: #333;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    margin-right: 0.5rem;
+    cursor: pointer;
+  }
+  
+  .toggle-btn.active {
+    background: #4e0eff;
+  }
+  
+  .chat-title {
+    /* Additional styling as needed */
+  }
+  
+  .chat-messages {
+    flex: 1;
+    padding: 1rem;
+    overflow-y: auto;
+  }
+  
+  .chat-form {
+    display: flex;
+    padding: 1rem;
+  }
+  
+  .chat-form input {
+    flex: 1;
+    padding: 0.5rem;
+    margin-right: 0.5rem;
+    border-radius: 2rem;
+    border: none;
+  }
+  
+  .chat-form .send-btn {
+    background: #4e0eff;
+    color: white;
+    border: none;
+    padding: 0.5rem 1rem;
+    border-radius: 2rem;
+    cursor: pointer;
+  }
+  
+  /* Responsive adjustments and other specific styling can be added as necessary */
+  
