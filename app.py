@@ -1,5 +1,5 @@
 
-from flask import Flask, render_template , request, jsonify
+from flask import Flask, render_template , request, jsonify, make_response
 from appmanager.controllers.search import process_query
 from dotenv import load_dotenv
 import os
@@ -28,7 +28,7 @@ def api_query():
     data = request.get_json()
     query = data.get('question')
     result = process_query(query)
-    return jsonify({'answer': result})
+    return make_response(jsonify({'answer': result}), 200)
     
 
 if __name__ == '__main__':

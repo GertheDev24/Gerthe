@@ -4,12 +4,53 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chatbot UI</title>
+<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <!-- Integration du fichier style.css -->
 <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> 
 </head>
-
 <body>
-  <div id="gertheai"></div>
-</body>
 
+<div class="chatbot-ui">
+  <div class="chatbot-header">Gerthe_IA</div>
+  <div class="chatbot-section chatbot-input">
+    <div class="chatbot-title">Input</div>
+    <!-- Le formulaire pour la question de l'utilisateur -->
+    <form method="post" autocomplete="off" id="form">
+      <input type="text" name="question" id="question" placeholder="Posez-moi votre question ici ">
+      <!-- <textarea rows="1" class="auto_height" name="question" placeholder="Posez-moi votre question ici" onInput="auto_height(this)"></textarea> -->
+      <button type="submit">OK</button>
+    </form>
+  </div>
+
+  <div class="chatbot-section chatbot-output">
+    <div class="chatbot-title">Output</div>
+    <p hidden id="response">{{ response }}</p>
+    <p class="output-highlight" id="typedtext">
+      <center><div class="lds-dual-ring" style="display: none;"></div></center>
+      <!-- affiche la reponse de GERTHE IA -->
+    </p>
+  </div>
+</div>
+
+<script src="{{ url_for('static', filename='js/main.js')}}"></script>
+<script>
+  var form = document.querySelector('form');
+  var loader = document.querySelector('.lds-dual-ring')
+  form.addEventListener('submit', event => {
+    var speed = 30;
+    var p = document.querySelector('#typedtext');
+    loader.style.display = 'block';
+    sendData(form, loader, "{{ url_for('api_query')}}", p, speed);
+    event.preventDefault();
+  })
+  // var speed = 30;
+  // var p = document.querySelector('#typedtext');
+  // var response = document.querySelector('#response');
+  // setTimeout(function(){
+  //     p.style.display = "inline-block";
+  //     typeEffect(response, p, speed);
+  //   }, 1000);
+</script>
+</body>
 </html>
