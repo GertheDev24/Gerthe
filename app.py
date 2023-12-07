@@ -9,7 +9,7 @@ load_dotenv()
 
 app = Flask(__name__, static_url_path='/static')
 
-@app.route('/', methods=['POST'])
+@app.route('/', methods=['GET'])
 def chatbot():
     result = ''
     if request.method == "POST":
