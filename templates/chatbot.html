@@ -4,91 +4,12 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Chatbot UI</title>
-<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
-<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
 <!-- Integration du fichier style.css -->
 <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> 
 </head>
+
 <body>
-
-<div class="chatbot-ui">
-  <div class="chatbot-header">Gerthe_IA</div>
-  <div class="chatbot-section chatbot-input">
-    <div class="chatbot-title">Input</div>
-    <!-- Le formulaire pour la question de l'utilisateur -->
-    <form action="." method="post" autocomplete="off">
-      <input type="text" name="question" id="question" placeholder="Posez-moi votre question ici ">
-      <!-- <textarea rows="1" class="auto_height" name="question" placeholder="Posez-moi votre question ici" onInput="auto_height(this)"></textarea> -->
-      <button type="submit">OK</button>
-    </form>
-  </div>
-
-  <div class="chatbot-section chatbot-output">
-    <div class="chatbot-title">Output</div>
-    <p class="output-highlight" id="typedtext">
-      <!-- affiche la reponse de GERTHE IA -->
-      {{ reponse }}
-      
-    </p>
-  </div>
-</div>
-
-<script>
-
-
-// function sendData(e) { 
-//   var value = document.getElementById('input').value; 
-//   console.log(value)
-//   $.ajax({ 
-//       url: '/', 
-//       type: 'POST', 
-//       data: { 'data': value }, 
-//       success: function(response) {
-//         document.getElementById('input').value = ""
-//         // typewriter();
-//         e.preventDefault()
-//       }, 
-//       error: function(error) { 
-//           console.log(error); 
-//       } 
-//   }); 
-// }
- 
-  
-  
-//   function typewriter(response)
-//   {
-//     var aText = new Array(
-  
-//   );
-//   var iSpeed = 50; // time delay of print out
-//   var iIndex = 0; // start printing array at this posision
-//   var iArrLength = aText[0].length; // the length of the text array
-//   var iScrollAt = 20; // start scrolling up at this many lines
-  
-//   var iTextPos = 0; // initialise text position
-//   var sContents = ''; // initialise contents variable
-//   var iRow; // initialise current row
-//   sContents =  ' ';
-//   iRow = Math.max(0, iIndex-iScrollAt);
-//   var destination = document.getElementById("typedtext");
-  
-//   while ( iRow < iIndex ) {
-//     sContents += aText[iRow++] + '<br />';
-//   }
-//   destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
-//   if ( iTextPos++ == iArrLength ) {
-//     iTextPos = 0;
-//     iIndex++;
-//     if ( iIndex != aText.length ) {
-//     iArrLength = aText[iIndex].length;
-//     setTimeout("typewriter()", 500);
-//     }
-//   } else {
-//     setTimeout("typewriter()", iSpeed);
-//   }
-//   }
-
-</script>
+  <div id="gertheai"></div>
 </body>
+
 </html>
