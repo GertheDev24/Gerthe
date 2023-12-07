@@ -16,7 +16,7 @@
   <div class="chatbot-section chatbot-input">
     <div class="chatbot-title">Input</div>
     <!-- Le formulaire pour la question de l'utilisateur -->
-    <form action="." method="post" autocomplete="off">
+    <form action="." method="post" autocomplete="off" id="form">
       <input type="text" name="question" id="question" placeholder="Posez-moi votre question ici ">
       <!-- <textarea rows="1" class="auto_height" name="question" placeholder="Posez-moi votre question ici" onInput="auto_height(this)"></textarea> -->
       <button type="submit">OK</button>
@@ -25,70 +25,29 @@
 
   <div class="chatbot-section chatbot-output">
     <div class="chatbot-title">Output</div>
+    <p hidden id="response">{{ response }}</p>
     <p class="output-highlight" id="typedtext">
       <!-- affiche la reponse de GERTHE IA -->
-      {{ reponse }}
-      
     </p>
   </div>
 </div>
 
+<script src="{{ url_for('static', filename='js/main.js')}}"></script>
 <script>
+  // form.onsubmit = (e) => {
+  //   var speed = 30;
+  //   var p = document.querySelector('#typedtext');
+  //   sendData('/api/chatme', p, spend);
 
-
-// function sendData(e) { 
-//   var value = document.getElementById('input').value; 
-//   console.log(value)
-//   $.ajax({ 
-//       url: '/', 
-//       type: 'POST', 
-//       data: { 'data': value }, 
-//       success: function(response) {
-//         document.getElementById('input').value = ""
-//         // typewriter();
-//         e.preventDefault()
-//       }, 
-//       error: function(error) { 
-//           console.log(error); 
-//       } 
-//   }); 
-// }
- 
-  
-  
-//   function typewriter(response)
-//   {
-//     var aText = new Array(
-  
-//   );
-//   var iSpeed = 50; // time delay of print out
-//   var iIndex = 0; // start printing array at this posision
-//   var iArrLength = aText[0].length; // the length of the text array
-//   var iScrollAt = 20; // start scrolling up at this many lines
-  
-//   var iTextPos = 0; // initialise text position
-//   var sContents = ''; // initialise contents variable
-//   var iRow; // initialise current row
-//   sContents =  ' ';
-//   iRow = Math.max(0, iIndex-iScrollAt);
-//   var destination = document.getElementById("typedtext");
-  
-//   while ( iRow < iIndex ) {
-//     sContents += aText[iRow++] + '<br />';
-//   }
-//   destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
-//   if ( iTextPos++ == iArrLength ) {
-//     iTextPos = 0;
-//     iIndex++;
-//     if ( iIndex != aText.length ) {
-//     iArrLength = aText[iIndex].length;
-//     setTimeout("typewriter()", 500);
-//     }
-//   } else {
-//     setTimeout("typewriter()", iSpeed);
-//   }
-//   }
-
+  //   return false
+  // }
+  var speed = 30;
+  var p = document.querySelector('#typedtext');
+  var response = document.querySelector('#response');
+  setTimeout(function(){
+      p.style.display = "inline-block";
+      typeEffect(response, p, speed);
+    }, 1000);
 </script>
 </body>
 </html>
