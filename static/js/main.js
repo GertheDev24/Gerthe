@@ -1,19 +1,21 @@
-function sendData(lien, output, speed) {
-    var value = document.getElementById('input').value;
-    $.ajax({
-        url: `${lien}`,
-        type: 'POST',
-        data: JSON.stringify({'data': value }),
-        success: function (response) {
-            setTimeout(function(){
-                p.style.display = "inline-block";
-                typeEffect(response.answer, output, speed);
-              }, 1000);
+function sendData(form, lien, output, speed) {
+    var value = form.elements['question'].value;
+    fetch(lien, {
+        method: 'POST',
+        headers: {
+            'Content-Type': 'application/json'
         },
-        error: function (error) {
-            console.log(error);
-        }
-    });
+        body: JSON.stringify({'question': value }),
+    })
+    .then(response => response.text())
+    .then(result => {
+        console.log(result, output, speed)
+        // setTimeout(function(){
+        //     p.style.display = "inline-block";
+        //     typeEffect(response.answer, output, speed);
+        //   }, 1000);
+    })
+    .catch(erreur => console.log('Error : ', erreur));
 }
 
 
@@ -49,7 +51,7 @@ function typewriter(response) {
 }
 
 function typeEffect(element1, element2, speed) {
-    var text = element1.textContent;
+    var text = element1;
     element2.innerHTML = "";
     
     var i = 0;
