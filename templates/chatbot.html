@@ -27,6 +27,7 @@
     <div class="chatbot-title">Output</div>
     <p hidden id="response">{{ response }}</p>
     <p class="output-highlight" id="typedtext">
+      <center><div class="lds-dual-ring" style="display: none;"></div></center>
       <!-- affiche la reponse de GERTHE IA -->
     </p>
   </div>
@@ -35,11 +36,12 @@
 <script src="{{ url_for('static', filename='js/main.js')}}"></script>
 <script>
   var form = document.querySelector('form');
+  var loader = document.querySelector('.lds-dual-ring')
   form.addEventListener('submit', event => {
     var speed = 30;
     var p = document.querySelector('#typedtext');
-    console.log(p.textContent)
-    sendData(form, "{{ url_for('api_query')}}", p, speed);
+    loader.style.display = 'block';
+    sendData(form, loader, "{{ url_for('api_query')}}", p, speed);
     event.preventDefault();
   })
   // var speed = 30;

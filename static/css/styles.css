@@ -54,6 +54,8 @@ body {
   border-radius: 5px;
 }
 
+/* Form Chat */
+
 .chatbot-input form input {
   width: 95%;
   font-size: 18px;
@@ -86,6 +88,37 @@ body {
 .chatbot-input form button:hover{
   background-color: #6FBC55;
 }
+
+/* End Form chat */
+
+/* loader */
+
+.lds-dual-ring {
+  display: inline-block;
+  width: 60px;
+  height: 60px;
+}
+.lds-dual-ring:after {
+  content: " ";
+  display: block;
+  width: 40px;
+  height: 40px;
+  margin: 5px;
+  border-radius: 50%;
+  border: 6px solid #62A64B;
+  border-color: #62A64B transparent #62A64B transparent;
+  animation: lds-dual-ring 1.2s linear infinite;
+}
+@keyframes lds-dual-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+/* End loader */
 
 
 /* Use a pseudo-element to create a line between input and output boxes */

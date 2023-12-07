@@ -1,4 +1,4 @@
-function sendData(form, lien, output, speed) {
+function sendData(form, loader, lien, output, speed) {
     var value = form.elements['question'].value;
     fetch(lien, {
         method: 'POST',
@@ -7,13 +7,13 @@ function sendData(form, lien, output, speed) {
         },
         body: JSON.stringify({'question': value }),
     })
-    .then(response => response.text())
+    .then(response => response.json())
     .then(result => {
-        console.log(result, output, speed)
-        // setTimeout(function(){
-        //     p.style.display = "inline-block";
-        //     typeEffect(response.answer, output, speed);
-        //   }, 1000);
+        loader.style.display = 'none';
+        setTimeout(function(){
+            output.style.display = "inline-block";
+            typeEffect(result.answer, output, speed);
+          }, 1000);
     })
     .catch(erreur => console.log('Error : ', erreur));
 }
