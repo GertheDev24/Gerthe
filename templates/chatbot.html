@@ -34,20 +34,20 @@
 
 <script src="{{ url_for('static', filename='js/main.js')}}"></script>
 <script>
-  // form.onsubmit = (e) => {
-  //   var speed = 30;
-  //   var p = document.querySelector('#typedtext');
-  //   sendData('/api/chatme', p, spend);
+  form.onsubmit = (e) => {
+    var speed = 30;
+    var p = document.querySelector('#typedtext');
+    sendData('/api/chatme', p, spend);
 
-  //   return false
-  // }
-  var speed = 30;
-  var p = document.querySelector('#typedtext');
-  var response = document.querySelector('#response');
-  setTimeout(function(){
-      p.style.display = "inline-block";
-      typeEffect(response, p, speed);
-    }, 1000);
+    e.preventDefault()
+  }
+  // var speed = 30;
+  // var p = document.querySelector('#typedtext');
+  // var response = document.querySelector('#response');
+  // setTimeout(function(){
+  //     p.style.display = "inline-block";
+  //     typeEffect(response, p, speed);
+  //   }, 1000);
 </script>
 </body>
 </html>
