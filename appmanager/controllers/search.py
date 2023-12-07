@@ -1,16 +1,13 @@
 import os
-import sys
-
-import openai
 import langchain
 from langchain.chains import ConversationalRetrievalChain
 from langchain.chat_models import ChatOpenAI
 from langchain.embeddings import OpenAIEmbeddings
 from langchain.llms import OpenAI
 from langchain.prompts.prompt import PromptTemplate
-from langchain.document_loaders import CSVLoader
 from langchain.vectorstores import FAISS
 from langchain.embeddings.openai import OpenAIEmbeddings
+from appmanager.helpers.data_helper import CsvDataManager
 
 # Désactive les messages verbeux de langchain
 langchain.verbose = False
@@ -18,14 +15,9 @@ langchain.verbose = False
 # Configure la clé API OpenAI
 os.environ["OPENAI_API_KEY"] = os.getenv('OPENAI_API_KEY')
 
-
-# Chargement des données format CSV
-loader = CSVLoader(file_path='static/produits_en_vente_2111.csv',
-                   encoding="utf-8",csv_args={
-                   'delimiter': ',',})
-
-# Charge les données depuis le fichier CSV
-data = loader.load()
+# chargement des données
+csv_manager = CsvDataManager()
+data = csv_manager.csv_data
 
 # Crée des embeddings à l'aide de OpenAIEmbeddings
 embeddings = OpenAIEmbeddings()

@@ -1,6 +1,6 @@
 
 from flask import Flask, render_template , request, jsonify
-from search import process_query
+from appmanager.controllers.search import process_query
 from dotenv import load_dotenv
 import os
 
