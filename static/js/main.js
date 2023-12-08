@@ -1,5 +1,12 @@
+// form : le formulaire
+// loader : En attente du chargement
+// lien : Le lien pour la requête
+// output : la balise dans laquelle on affiche la réponse de GERTHE IA
+// speed : la vitesse à laquelle doit affiche les mot à l'écran
 function sendData(form, loader, lien, output, speed) {
+    // on recupère la question de l'utilisateur
     var value = form.elements['question'].value;
+    // on envoie la requête 
     fetch(lien, {
         method: 'POST',
         headers: {
@@ -8,48 +15,21 @@ function sendData(form, loader, lien, output, speed) {
         body: JSON.stringify({'question': value }),
     })
     .then(response => response.json())
+    // on affiche la réponse de GERTHE IA
     .then(result => {
         loader.style.display = 'none';
         setTimeout(function(){
             output.style.display = "inline-block";
+            // La fonction typeEffect permet d'afficher la réponse mot par mot ou lettre par lettre
             typeEffect(result.answer, output, speed);
           }, 1000);
     })
     .catch(erreur => console.log('Error : ', erreur));
 }
 
-
-
-function typewriter(response) {
-    var aText = [response, ""];
-    var iSpeed = 50; // time delay of print out
-    var iIndex = 0; // start printing array at this posision
-    var iArrLength = aText[0].length; // the length of the text array
-    var iScrollAt = 20; // start scrolling up at this many lines
-
-    var iTextPos = 0; // initialise text position
-    var sContents = ''; // initialise contents variable
-    var iRow; // initialise current row
-    sContents = ' ';
-    iRow = Math.max(0, iIndex - iScrollAt);
-    var destination = document.getElementById("typedtext");
-
-    while (iRow < iIndex) {
-        sContents += aText[iRow++] + '<br />';
-    }
-    destination.innerHTML = sContents + aText[iIndex].substring(0, iTextPos) + "_";
-    if (iTextPos++ == iArrLength) {
-        iTextPos = 0;
-        iIndex++;
-        if (iIndex != aText.length) {
-            iArrLength = aText[iIndex].length;
-            setTimeout("typewriter()", 500);
-        }
-    } else {
-        setTimeout("typewriter()", iSpeed);
-    }
-}
-
+// element1 : la réponse de GERTHE IA
+// element2 : la balise dans laquelle on affiche la réponse de GERTHE IA
+// speed : la vitesse à laquelle doit affiche les mot à l'écran
 function typeEffect(element1, element2, speed) {
     var text = element1;
     element2.innerHTML = "";

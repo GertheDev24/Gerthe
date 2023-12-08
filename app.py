@@ -11,14 +11,14 @@ app = Flask(__name__, static_url_path='/static')
 
 @app.route('/', methods=['POST', 'GET'])
 def chatbot():
-    result = ''
-    if request.method == "POST":
-        question = request.form.get('question')
-        print(question)
-        # data = request.get_json()
-        # query = data.get('question')
-        result = process_query(question)
-    return render_template('chatbot.html', response=result)
+    # result = ''
+    # if request.method == "POST":
+    #     question = request.form.get('question')
+    #     print(question)
+    #     # data = request.get_json()
+    #     # query = data.get('question')
+    #     result = process_query(question)
+    return render_template('chatbot.html')
 
 
 
