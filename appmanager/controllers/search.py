@@ -29,8 +29,11 @@ vectors = FAISS.from_documents(data, embeddings)
 # Crée une chaîne de récupération conversationnelle basée sur le modèle ChatOpenAI
 qa_template = """
  Vous êtes un assistant IA utile nommé GertheAI.
- L'utilisateur vous demande des informations sur le fichier
-
+ Fais les recherches sur tous le document avant de répondre 
+ =========
+ si on vous demande : le prix d'un produit (x)
+ retourne : Le prix (x) est (prix_produit) / (unite_de_mesure_produit)
+ ========= 
  context: {context}
  =========
  question: {question}
