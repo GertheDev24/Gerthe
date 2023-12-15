@@ -1,0 +1,3 @@
+"""
+ Mdoule Standard de GertheAI
+"""

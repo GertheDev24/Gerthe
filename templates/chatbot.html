@@ -13,6 +13,21 @@
 
 <div class="chatbot-ui">
   <div class="chatbot-header">Gerthe_IA</div>
+  <!-- Les options du module Gerthe_IA -->
+  <form method="POST" action="/type_module">
+    <label for="options" style="color: #6FBC55; font-size: 0.9rem;">&nbsp;&nbsp;&nbsp;&nbsp;  Module :</label>
+    <select id="options" name="options">
+        <option value="standard">Standard</option>
+        <option value="analyste">Analyste</option>
+    </select>
+  </form>
+  <form method="POST" action="/type_module">
+    <label for="options" style="color: #6FBC55; font-size: 0.9rem;">&nbsp;&nbsp;&nbsp;&nbsp;  Historique :</label>
+    <select id="options" name="options">
+        <option value="standard">Titre chat 1</option>
+        <option value="analyste">Titre chat 2</option>
+    </select>
+  </form>
   <div class="chatbot-section chatbot-input">
     <div class="chatbot-title">Input</div>
     <!-- Le formulaire pour la question de l'utilisateur -->
