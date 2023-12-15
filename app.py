@@ -3,6 +3,7 @@ from flask import Flask, render_template , request, jsonify, make_response ,  re
 from appmanager.controllers.search import process_query
 from dotenv import load_dotenv
 import os
+from appmanager.config.var_config import LIST_MODULE_IA
 
 # Chargement des envs
 load_dotenv()
@@ -25,14 +26,18 @@ def chatbot():
 # Pour choisir le type de module de l'iA
 # Sauvegarde des paramètres 
 @app.route('/type_module', methods=['POST'])
-def traiter_option():
-    option_selectionnee = request.form['options']
-    if option_selectionnee == 'standard':
-        return redirect(url_for(''))
-    elif option_selectionnee == 'analyste':
-        return redirect(url_for(''))
-    else:
-        return redirect(url_for(''))
+def type_module():
+    data = request.form
+    query = data.get('option')
+    if query not in LIST_MODULE_IA:
+        query = LIST_MODULE_IA[0]
+
+    # Sauvearder dans la session
+        
+    # Redirection index
+    return redirect(url_for('chatbot'))
+   
+      
 
 
 @app.route('/api/chatme', methods=['POST'])

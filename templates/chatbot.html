@@ -6,6 +6,7 @@
 <title>Chatbot UI</title>
 <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://unpkg.com/htmx.org@1.9.9" integrity="sha384-QFjmbokDn2DjBjq+fM+8LUIVrAgqcNW2s0PjAxHETgRn9l4fvX31ZxDxvwQnyMOX" crossorigin="anonymous"></script>
 <!-- Integration du fichier style.css -->
 <link rel="stylesheet" href="{{ url_for('static', filename='css/styles.css') }}"> 
 </head>
@@ -14,20 +15,24 @@
 <div class="chatbot-ui">
   <div class="chatbot-header">Gerthe_IA</div>
   <!-- Les options du module Gerthe_IA -->
-  <form method="POST" action="/type_module">
+  <form method="POST" action="{{ url_for('type_module')}}">
     <label for="options" style="color: #6FBC55; font-size: 0.9rem;">&nbsp;&nbsp;&nbsp;&nbsp;  Module :</label>
     <select id="options" name="options">
         <option value="standard">Standard</option>
         <option value="analyste">Analyste</option>
     </select>
+    <span>  <input type="submit" value="save" /></span>
   </form>
-  <form method="POST" action="/type_module">
+  <!---
+   <form method="POST" action="/type_module">
     <label for="options" style="color: #6FBC55; font-size: 0.9rem;">&nbsp;&nbsp;&nbsp;&nbsp;  Historique :</label>
     <select id="options" name="options">
         <option value="standard">Titre chat 1</option>
         <option value="analyste">Titre chat 2</option>
     </select>
+    <span>  <input type="submit" value="save" /></span>
   </form>
+  -->
   <div class="chatbot-section chatbot-input">
     <div class="chatbot-title">Input</div>
     <!-- Le formulaire pour la question de l'utilisateur -->
@@ -52,13 +57,22 @@
 <script>
   var form = document.querySelector('form');
   var loader = document.querySelector('.lds-dual-ring')
-  form.addEventListener('submit', event => {
-    var speed = 30;
-    var p = document.querySelector('#typedtext');
-    loader.style.display = 'block';
-    sendData(form, loader, "{{ url_for('api_query')}}", p, speed);
-    event.preventDefault();
-  })
+  var posturl = form.action
+  posturl = posturl.split('/'); 
+  posturl = posturl[posturl.length - 1];
+  
+  if(posturl == "chatme") {
+    form.addEventListener('submit', event => {
+        var speed = 30;
+        var p = document.querySelector('#typedtext');
+        loader.style.display = 'block';
+        sendData(form, loader, "{{ url_for('api_query')}}", p, speed);
+        event.preventDefault();
+      })
+  }
+
+  console.log(posturl)
+
   // var speed = 30;
   // var p = document.querySelector('#typedtext');
   // var response = document.querySelector('#response');
