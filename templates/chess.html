@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>2D Chess</title>
+  <link rel="stylesheet" href="{{ url_for('static', filename='css/chess.css') }}">
+</head>
+<body>
+  <h1>♚ 2D Chess</h1>
+  <p class="subtitle">Click a piece, then click a highlighted square to move.</p>
+
+  <div class="layout">
+    <div class="board-wrap">
+      <div id="board"></div>
+      <div id="promo-overlay"></div>
+    </div>
+
+    <aside class="panel">
+      <div id="status">White to move.</div>
+
+      <div class="controls">
+        <select id="mode" title="Game mode">
+          <option value="ai-black" selected>You (White) vs Computer</option>
+          <option value="ai-white">Computer vs You (Black)</option>
+          <option value="human">Two players (local)</option>
+        </select>
+        <button id="new-game">New game</button>
+        <button id="flip-board">Flip board</button>
+      </div>
+
+      <div class="moves-box">
+        <h2>Moves</h2>
+        <ol id="moves"></ol>
+      </div>
+    </aside>
+  </div>
+
+  <footer>A self-contained chess engine — no external libraries.</footer>
+
+  <script src="{{ url_for('static', filename='js/chess.js') }}"></script>
+</body>
+</html>

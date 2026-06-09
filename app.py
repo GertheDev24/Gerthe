@@ -22,6 +22,11 @@ def chatbot():
 
 
 
+@app.route('/chess', methods=['GET'])
+def chess():
+    return render_template('chess.html')
+
+
 @app.route('/api/chatme', methods=['POST'])
 def api_query():
     data = request.get_json()
